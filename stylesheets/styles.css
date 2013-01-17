@@ -2,6 +2,26 @@
 Leap Day for Github Pages
 by Matt Graham
 */
+
+/*New color scheme :Wycks
+Primary: #d54f21 #a0543a  #8a2b0b  #ea7c56  #ea997d (orange)
+Secondary: #1c5e88 #294e66  #093959  #4f96c4  #6ea2c4 (blue_)
+Thirdary: #6dbf1e  #618f35  #427c0a  #97df52  #aadf77 (green)
+*/
+
+@font-face {
+    font-family: 'HeydingsCommonIconsRegular';
+    src: url('../fonts/heydings_icons-webfont.eot');
+    src: url('../fonts/heydings_icons-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/heydings_icons-webfont.woff') format('woff'),
+         url('../fonts/heydings_icons-webfont.ttf') format('truetype'),
+         url('../fonts/heydings_icons-webfont.svg#HeydingsCommonIconsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 @font-face {
   font-family: 'Quattrocento Sans';
   src: url("../fonts/quattrocentosans-bold-webfont.eot");
@@ -181,6 +201,19 @@ h6 {
   margin: 2.33em 0;
 }
 
+.grey-line{
+  background-color:#F0F0F0;
+  width:100%;
+}
+
+.file {
+  font: 18px/27px 'HeydingsCommonIconsRegular', Arial, sans-serif;
+  float: left;
+  margin-right: 5px;
+  margin-top: -4px;
+}
+}
+
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome
  */
@@ -290,7 +323,9 @@ ul {
 }
 
 dd {
-  margin: 0 0 0 40px;
+margin: 0 0 0 10px;
+padding-bottom: 20px;
+padding-top: 5px;
 }
 
 /*
@@ -503,12 +538,14 @@ table {
 }
 
 body {
-  font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #666;
+/*  font: 16px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font: 16px/22px "Helvetica Neue", Helvetica, Arial, sans-serif;
+/**/
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+/*  background: url(../images/body-background.png) #eae6d1;*/
+    background: url(https://raw.github.com/subtlepatterns/SubtlePatterns/master/gray_jean.png) #eae6d1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -543,7 +580,13 @@ h3 {
 }
 
 a {
-  color: #3399cc;
+  color: #1C5E88;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+section a {
+  color: #D54E21;
   font-weight: 400;
   text-decoration: none;
 }
@@ -647,7 +690,14 @@ hr {
 
 dt {
   color: #444;
-  font-weight: 700;
+/*  font-weight: 900;*/
+/*  background-color: #F1F0F0;*/
+background-color: rgba(220, 221, 220, 0.34);
+  padding: 2px;
+}
+
+dd ul {
+  margin-left: -25px;
 }
 
 header {
@@ -659,7 +709,8 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+ /* background: url(../images/background.png) #4276b6;*/
+ background-color: #294E66;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -784,7 +835,7 @@ header p {
 #banner #logo {
   position: absolute;
   height: 36px;
-  width: 36px;
+  width: 90px;
   right: 7px;
   top: 7px;
   display: block;
@@ -792,7 +843,7 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 750px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
