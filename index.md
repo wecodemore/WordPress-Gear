@@ -187,6 +187,7 @@ PHP Boilerplate
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager)
 -   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/)
 
+* * * * *
 
 Theme Stuff
 ---------------
