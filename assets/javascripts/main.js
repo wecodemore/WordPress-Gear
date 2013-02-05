@@ -12,6 +12,7 @@ var sectionHeight = function() {
 
 $(window).resize(sectionHeight);
 
+//weird menu links
 $(document).ready(function(){
   $("section h1, section h2").each(function(){
     $("nav ul").append("<li class='tag-" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
@@ -26,13 +27,14 @@ $(document).ready(function(){
     $(this).parent().addClass("active");
     event.preventDefault();    
   });
-  
+
+//inline links
 $("h2").wrap(function() {
   var $this = $(this); 
   return "<a name='" + $this.text() + "'/>";
   //return "<a name='" + 'pooo' + "'/>";
 });
-
+  
   sectionHeight();
   
   $('img').load(sectionHeight);
