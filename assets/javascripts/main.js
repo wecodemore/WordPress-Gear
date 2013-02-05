@@ -32,7 +32,6 @@ $(document).ready(function(){
 $("h2").wrap(function() {
   var $this = $(this); 
   return "<a name='" + $this.text() + "'/>";
-  //return "<a name='" + 'pooo' + "'/>";
 });
   
   sectionHeight();

@@ -31,7 +31,7 @@ this project on GitHub and edit right in the GitHub UI or clone it locally,
 Then send a pull request:
 [GitHub-how-to](https://help.github.com/articles/using-pull-requests)
 
-WordPress-Gears is written using [Jekyll] to make changes edit *index.md*.
+WordPress-Gears is written using [Jekyll](https://github.com/mojombo/jekyll), to make changes edit *index.md*.
 
 ### Contributors
 
