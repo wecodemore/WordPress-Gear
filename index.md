@@ -188,5 +188,10 @@ PHP Boilerplate
 -   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/)
 
 
+Theme Stuff
+---------------
 
+##### Theme tools and boilerplate
 
+-   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
+-   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on TwentyEleven
