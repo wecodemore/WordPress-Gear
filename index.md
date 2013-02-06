@@ -135,6 +135,7 @@ Plugins that help with debugging
 -   [Rewrite Analyzer](http://wordpress.org/extend/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
 -   [XHProf Profiler](http://wordpress.org/extend/plugins/wp-xhprof-profiler/) - Profile plug ins and themes using XHProf (Facebook)
 -   [BlackBox Debug Bar](http://wordpress.org/extend/plugins/blackbox-debug-bar/) - Another debug bar
+-   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
 
 ##### SQL debug
 
