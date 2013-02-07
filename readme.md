@@ -3,7 +3,7 @@
 
 A bunch of gear for WP developers
 
-The actual page:  http://wycks.github.com/WordPress-Gear/ 
+The actual page:  http://wpgear.org/
 
 To contribute you need a GitHub account.
 The easy way: Click on `index.md` then click edit. This will automatically fork this project to your account, make your changes then submit a pull request.
