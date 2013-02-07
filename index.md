@@ -2,45 +2,18 @@
 layout: default
 ---
 
-Welcome
--------
-
-WordPress-Gear is a compendium of useful *developer* tools for working
-with WordPress.
-
-[Base Tools](http://wycks.github.com/WordPress-Gear/#base-tools)  
-[Debug Tools](http://wycks.github.com/WordPress-Gear/#debug-tools)  
-[PHP Boilerplate](http://wycks.github.com/WordPress-Gear/#php-boilerplate)  
-
 ### How
 
-WordPress-Gear is meant to be community driven, please feel free to jump
-in and add/remove any useful information via GitHub.
+WordPress-Gear is meant to be community driven, please feel free to jump in and add/remove any useful information via GitHub.
 
-To edit this project [fork](https://github.com/wycks/WordPress-Gear)
-this project on GitHub and edit right in the GitHub UI or clone it locally,
+The easiest way to contribute is to click [index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md), then click edit. This will automatically fork this project to your account, make your changes then submit a pull request. There are additional instruction if you want to clone this locally in the readme.
 
-    # how to clone locally
-    $ git clone git://github.com/your_username/your_fork.git
-    $ cd your_fork
-    # switch branches to default github hosted pages
-    $ git checkout -b gh-pages remotes/origin/gh-pages
-    # Edit index.md 
-    $ git push
-
-Then send a pull request:
-[GitHub-how-to](https://help.github.com/articles/using-pull-requests)
-
-WordPress-Gears is written using [Jekyll](https://github.com/mojombo/jekyll), to make changes edit *index.md*.
 
 ### Contributors
 
 Please refrain from submitting any commercial products or themes. Links
 must allow for code browsing (github/bitbucket/svn..etc).
 
-You can [@mention](https://github.com/blog/821) a GitHub username to
-generate a link to their profile. The resulting `<a>` element will link
-to the contributor's GitHub Profile.
 
 * * * * *
 

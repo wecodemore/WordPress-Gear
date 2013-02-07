@@ -911,11 +911,16 @@ footer {
   line-height: 16px;
 }
 
+@media print, screen and (min-width: 1060px) {
+#other-menu{display: none;}
+}
+
 @media print, screen and (max-width: 1060px) {
   div.wrapper {
     width: auto;
     margin: 0;
   }
+
 
   nav {
     display: none;
