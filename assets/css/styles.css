@@ -788,6 +788,7 @@ header p {
   font-weight: bold;
   display: inline-block;
   text-align: center;
+  margin-bottom: 20px;
 }
 .button:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));

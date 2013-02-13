@@ -128,22 +128,22 @@ PHP Boilerplate
 
 ##### Plugin stuff
 
--   [Plugin boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) by @tommcfarlin
--   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution)
--   [Settings framework](https://github.com/gilbitron/WordPress-Settings-Framework) by @gilbitron
--   [scbFramework](http://wordpress.org/extend/plugins/scb-framework/) - Classes for plugin dev
--   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - by @tareq_cse
+-   [Plugin boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
+-   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
+-   [Settings framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
+-   [scbFramework](http://wordpress.org/extend/plugins/scb-framework) - A set of useful classes for faster plugin development 
+-   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 
 ##### Widgets
 
--   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
--   [Widget helper class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class)
+-   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Maintainable boilerplate for building widgets
+-   [Widget helper class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - A class to ease creating Widgets
 
 ##### Updaters
 
--   [GitHub plugin update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater)
--   [Update class](https://github.com/thomasgriffin/TGM-Updater)
+-   [GitHub plugin update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
+-   [Update class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
 
 ##### Custom fields (meta box)
 
@@ -152,16 +152,16 @@ PHP Boilerplate
 -   [Custom Metaboxes and Fields](https://github.com/jaredatch/Custom-Metaboxes-and-Fields-for-WordPress)
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy)
 -   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
--   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class)
 
 ##### Other
 
--   [Media Manager class](https://github.com/thomasgriffin/New-Media-Image-Uploader)
--   [Pods framework](http://podsframework.org/)
--   [WordPress transients interface](https://github.com/markjaquith/WP-TLC-Transients)
--   [Logging class](https://github.com/pippinsplugins/WP-Logging)
--   [WP Session Manager](https://github.com/ericmann/wp-session-manager)
--   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/)
+-   [Media Manager class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
+-   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - Class for creating WordPress taxonomies custom fields
+-   [Pods framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
+-   [WordPress transients interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
+-   [Logging class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
+-   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
+-   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 
 * * * * *
 
