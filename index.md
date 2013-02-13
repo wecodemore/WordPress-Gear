@@ -110,6 +110,7 @@ Plugins that help with debugging
 -   [XHProf Profiler](http://wordpress.org/extend/plugins/wp-xhprof-profiler/) - Profile plug ins and themes using XHProf (Facebook)
 -   [BlackBox Debug Bar](http://wordpress.org/extend/plugins/blackbox-debug-bar/) - Another debug bar
 -   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
+-   [WpDevTool](http://wordpress.org/extend/plugins/wpdevtool/) - Development tool for WordPress to track bugs, manage crons, permalinks and much more.
 
 ##### SQL debug
 
