@@ -703,7 +703,7 @@ dd ul {
 header {
   padding: 25px 20px 40px 20px;
   margin: 0;
-  position: fixed;
+/*  position: fixed;*/
   top: 0;
   left: 0;
   right: 0;
@@ -743,7 +743,7 @@ header p {
   right: 50%;
   height: 50px;
   margin-right: -382px;
-  position: fixed;
+  /*position: fixed;*/
   top: 115px;
   background: #D54E21;
   border: 1px solid #9C2C07;
@@ -846,7 +846,7 @@ section {
   width: 750px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 190px;
+/*  margin-top: 190px;*/
   position: relative;
   background: #fbfbfb;
   -moz-border-radius: 3px;

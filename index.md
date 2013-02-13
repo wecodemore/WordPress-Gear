@@ -46,6 +46,7 @@ Base Tools
 `Command line fu`
 
 -   [WP-CLI](https://github.com/wp-cli/wp-cli) - The command-line tool for managing WordPress.
+-   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
 
 ##### Build scripts
 
