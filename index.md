@@ -134,6 +134,7 @@ PHP Boilerplate
 -   [scbFramework](http://wordpress.org/extend/plugins/scb-framework) - A set of useful classes for faster plugin development 
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
+-   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
 
 ##### Widgets
 
