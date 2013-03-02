@@ -47,6 +47,7 @@ Base Tools
 
 -   [WP-CLI](https://github.com/wp-cli/wp-cli) - The command-line tool for managing WordPress.
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
+-   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
 
 ##### Build scripts
 
@@ -70,6 +71,8 @@ Base Tools
 -   [TextMate](https://github.com/Gipetto/wordpress.tmbundle)
 -   [Aptana Studio](https://github.com/aptana/wordpress.ruble)
 -   [Coda 2](https://github.com/deryckoe/WordPress-Syntax-Mode-for-Coda-2)
+-   [Vim Syntax](https://github.com/kloppster/Wordpress-Vim-Syntax)
+-   [Vim WordPress snippets](https://github.com/sudar/vim-wordpress-snippets)
 
 
 `Misc` 
