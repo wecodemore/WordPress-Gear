@@ -78,7 +78,7 @@ Base Tools
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
--   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
+-   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP_CodeSniffer rules to enforce WordPress coding conventions
 
 
 * * * * *
