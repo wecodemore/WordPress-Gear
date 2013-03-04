@@ -160,6 +160,7 @@ PHP Boilerplate
 
 ##### Other
 
+-   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
 -   [Media Manager class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - Class for creating WordPress taxonomies custom fields
 -   [Pods framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
