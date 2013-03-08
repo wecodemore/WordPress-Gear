@@ -149,6 +149,7 @@ PHP Boilerplate
 
 -   [GitHub plugin update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
 -   [Update class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
+-   [wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
 
 ##### Custom fields (meta box)
 
