@@ -149,6 +149,7 @@ PHP Boilerplate
 
 -   [GitHub plugin update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
 -   [Update class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
+-   [wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
 
 ##### Custom fields (meta box)
 
@@ -168,6 +169,7 @@ PHP Boilerplate
 -   [Logging class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
 -   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
+-   [WordPress Plugin Readme Generator](http://sudarmuthu.com/wordpress/wp-readme) - Tool to generate WordPress Plugin Readme files.
 
 * * * * *
 
