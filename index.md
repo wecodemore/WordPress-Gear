@@ -121,6 +121,10 @@ Plugins that help with debugging
 -   [MySQL Profiler](http://wordpress.org/extend/plugins/mysql-profiler/)
 -   [SQL Monitor](http://wordpress.org/extend/plugins/sqlmon/)
 
+##### Other
+
+- [Console logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
+
 * * * * *
 
 PHP Boilerplate
