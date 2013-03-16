@@ -163,6 +163,8 @@ PHP Boilerplate
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy)
 -   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
 
+Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google.com/spreadsheet/ccc?key=0AoY8IFUX301qdFhBaERLUEUwa3U0YjFYTnBmaU1mbmc#gid=3) 
+
 ##### Other
 
 -   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
