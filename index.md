@@ -41,6 +41,7 @@ Base Tools
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)
+-   [WP Test](http://wptest.io/) Test data to measure the integrity of your plugins and themes
 
 
 `Command line fu`
