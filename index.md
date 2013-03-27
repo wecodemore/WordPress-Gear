@@ -74,6 +74,7 @@ Base Tools
 -   [Coda 2](https://github.com/deryckoe/WordPress-Syntax-Mode-for-Coda-2)
 -   [Vim Syntax](https://github.com/kloppster/Wordpress-Vim-Syntax)
 -   [Vim WordPress snippets](https://github.com/sudar/vim-wordpress-snippets)
+-   [NetBeans WordPress plugin](https://github.com/junichi11/netbeans-wordpress-plugin/)
 
 
 `Misc` 
