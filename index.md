@@ -41,12 +41,14 @@ Base Tools
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)
+-   [WP Test](http://wptest.io/) Test data to measure the integrity of your plugins and themes
 
 
 `Command line fu`
 
 -   [WP-CLI](https://github.com/wp-cli/wp-cli) - The command-line tool for managing WordPress.
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
+-   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
 
 ##### Build scripts
 
@@ -70,6 +72,9 @@ Base Tools
 -   [TextMate](https://github.com/Gipetto/wordpress.tmbundle)
 -   [Aptana Studio](https://github.com/aptana/wordpress.ruble)
 -   [Coda 2](https://github.com/deryckoe/WordPress-Syntax-Mode-for-Coda-2)
+-   [Vim Syntax](https://github.com/kloppster/Wordpress-Vim-Syntax)
+-   [Vim WordPress snippets](https://github.com/sudar/vim-wordpress-snippets)
+-   [NetBeans WordPress plugin](https://github.com/junichi11/netbeans-wordpress-plugin/)
 
 
 `Misc` 
@@ -78,6 +83,7 @@ Base Tools
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
+-   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP_CodeSniffer rules to enforce WordPress coding conventions
 
 
 * * * * *
@@ -117,6 +123,10 @@ Plugins that help with debugging
 -   [MySQL Profiler](http://wordpress.org/extend/plugins/mysql-profiler/)
 -   [SQL Monitor](http://wordpress.org/extend/plugins/sqlmon/)
 
+##### Other
+
+- [Console logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
+
 * * * * *
 
 PHP Boilerplate
@@ -134,6 +144,7 @@ PHP Boilerplate
 -   [scbFramework](http://wordpress.org/extend/plugins/scb-framework) - A set of useful classes for faster plugin development 
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
+-   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
 
 ##### Widgets
 
@@ -144,6 +155,7 @@ PHP Boilerplate
 
 -   [GitHub plugin update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
 -   [Update class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
+-   [wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
 
 ##### Custom fields (meta box)
 
@@ -153,8 +165,11 @@ PHP Boilerplate
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy)
 -   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
 
+Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google.com/spreadsheet/ccc?key=0AoY8IFUX301qdFhBaERLUEUwa3U0YjFYTnBmaU1mbmc#gid=3) 
+
 ##### Other
 
+-   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
 -   [Media Manager class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - Class for creating WordPress taxonomies custom fields
 -   [Pods framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
