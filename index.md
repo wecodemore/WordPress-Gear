@@ -80,7 +80,7 @@ Base Tools
 
 `Misc` 
 
--   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex)Search the WordPress Codex inside Sublime
+-   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex) - Search the WordPress Codex inside Sublime
 -   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
