@@ -710,26 +710,22 @@ header {
   width: 100%;
   text-align: center;
  /* background: url(../images/background.png) #4276b6;*/
- background-color: #294E66;
-  -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+ background-color: white;
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
   border-bottom: 2px solid #D54E21;
 }
 header h1 {
-  font: 40px/48px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #f3f3f3;
-  text-shadow: 0px 2px 0px #235796;
+  font: 50px/58px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   -o-text-overflow: ellipsis;
   -ms-text-overflow: ellipsis;
+  margin-top: 15px;
 }
 header p {
   color: #d8d8d8;

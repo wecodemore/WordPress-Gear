@@ -6,7 +6,7 @@ layout: default
 
 WordPress-Gear is meant to be community driven, please feel free to jump in and add/remove any useful information via [GitHub](https://github.com/wycks/WordPress-Gear).
 
-The easiest way to contribute is to have a GitHub account then click [index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md), then click edit. This will automatically fork this project to your account, make your changes then submit a pull request. There are additional instruction if you want to clone this locally in the readme.
+The easiest way to contribute is to have a GitHub account then click [index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md), then click edit. This will automatically fork this project to your account so you can make changes, then submit a pull request. There are additional instruction if you want to clone this locally in the readme.
 
 
 ### Contributors
