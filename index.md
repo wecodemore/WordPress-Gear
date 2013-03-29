@@ -40,8 +40,8 @@ Base Tools
 
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
--   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)
--   [WP Test](http://wptest.io/) Test data to measure the integrity of your plugins and themes
+-   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) Official sample data
+-   [WP Test](http://wptest.io/) Additional test/sample data
 
 
 `Command line fu`
@@ -49,6 +49,7 @@ Base Tools
 -   [WP-CLI](https://github.com/wp-cli/wp-cli) - The command-line tool for managing WordPress.
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
 -   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
+-   [SublPress](https://github.com/dnstbr/sublpress)  - Post to WordPress in Sublime
 
 ##### Build scripts
 
@@ -79,6 +80,7 @@ Base Tools
 
 `Misc` 
 
+-   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex)Search the WordPress Codex inside Sublime
 -   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
