@@ -145,6 +145,16 @@ body {
   margin: 0;
 }
 
+#header-wrap{
+  margin: 0 auto;
+}
+
+#header-wrap img {
+  float: left;
+margin-top: 32px;
+padding-left: 15px;
+}
+
 /* =============================================================================
    Links
    ========================================================================== */
@@ -726,6 +736,8 @@ header h1 {
   -o-text-overflow: ellipsis;
   -ms-text-overflow: ellipsis;
   margin-top: 15px;
+  float: left;
+  display: block;
 }
 header p {
   color: #d8d8d8;
