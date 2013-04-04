@@ -50,6 +50,7 @@ Base Tools
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
 -   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
 -   [SublPress](https://github.com/dnstbr/sublpress)  - Post to WordPress in Sublime
+-   [wp-debug-toggle](https://github.com/matthewsimo/wp-debug-toggle) - [NPM module](https://npmjs.org/package/wp-debug-toggle) to quick toggle wp_debug
 
 ##### Build scripts
 
