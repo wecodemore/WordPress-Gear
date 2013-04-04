@@ -179,6 +179,7 @@ Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google
 -   [Logging class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
 -   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
+-   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
 
 * * * * *
 
