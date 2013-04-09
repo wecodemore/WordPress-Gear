@@ -102,7 +102,7 @@ Plugins that help with debugging
 -   [Debug Bar Extender](http://wordpress.org/extend/plugins/debug-bar-extender/) - Adds profiler and extra tools
 -   [Debug Bar Cron](http://wordpress.org/extend/plugins/debug-bar-cron/) - Display scheduled events
 -   [Debug Bar Transients](http://wordpress.org/extend/plugins/debug-bar-transients/) - Transient info
--   [Debug Bar Template Trace](http://wordpress.org/extend/plugins/debug-bar-template-trace/) - Template load and order
+-   ~~Debug Bar Template Trace - Template load and order~~ Deprecated but template still listed inside Debug Bar under WP Query tab.
 -   [Debug Bar Action Hooks](http://wordpress.org/extend/plugins/debug-bar-action-hooks/) - List fired hooks
 -   [Debug Bar Console](http://wordpress.org/extend/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
 
