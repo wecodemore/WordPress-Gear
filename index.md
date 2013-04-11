@@ -56,7 +56,7 @@ Base Tools
 
 -   [WP Stack](https://github.com/markjaquith/WP-Stack) - Capistrano deploy
 -   [Wordmove](https://github.com/welaika/wordmove) - Rails gem
--   [Wp Project Tools](https://github.com/welaika/wordmove) - Fabric/Python CLI and automation
+-   [Wp Project Tools](https://github.com/newsapps/wp-project-tools) - Fabric/Python CLI and automation
 -   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
 -   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node, NPM and Ruby
 
