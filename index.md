@@ -105,6 +105,7 @@ Plugins that help with debugging
 -   ~~Debug Bar Template Trace - Template load and order~~ Deprecated but template still listed inside Debug Bar under WP Query tab.
 -   [Debug Bar Action Hooks](http://wordpress.org/extend/plugins/debug-bar-action-hooks/) - List fired hooks
 -   [Debug Bar Console](http://wordpress.org/extend/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
+-   [Debug Bar Constants](http://wordpress.org/extend/plugins/debug-bar-constants/) - List all WP and PHP constants
 
 ##### Debug plugins
 
