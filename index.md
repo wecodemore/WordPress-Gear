@@ -59,11 +59,13 @@ Base Tools
 -   [Wp Project Tools](https://github.com/newsapps/wp-project-tools) - Fabric/Python CLI and automation
 -   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
 -   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node, NPM and Ruby
+-   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
 
 ##### Theme scripts
 
 -   [Wordless](https://github.com/welaika/wordless) - Haml, Compass and Coffeescript (Ruby)
 -   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
+-   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
 
 
 `IDE bundles`
@@ -86,7 +88,7 @@ Base Tools
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
--   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP_CodeSniffer rules to enforce WordPress coding conventions
+-   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
 
 
 * * * * *
@@ -102,7 +104,6 @@ Plugins that help with debugging
 -   [Debug Bar Extender](http://wordpress.org/extend/plugins/debug-bar-extender/) - Adds profiler and extra tools
 -   [Debug Bar Cron](http://wordpress.org/extend/plugins/debug-bar-cron/) - Display scheduled events
 -   [Debug Bar Transients](http://wordpress.org/extend/plugins/debug-bar-transients/) - Transient info
--   ~~Debug Bar Template Trace - Template load and order~~ Deprecated but template still listed inside Debug Bar under WP Query tab.
 -   [Debug Bar Action Hooks](http://wordpress.org/extend/plugins/debug-bar-action-hooks/) - List fired hooks
 -   [Debug Bar Console](http://wordpress.org/extend/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
 -   [Debug Bar Constants](http://wordpress.org/extend/plugins/debug-bar-constants/) - List all WP and PHP constants
