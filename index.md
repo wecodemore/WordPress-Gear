@@ -50,7 +50,6 @@ Base Tools
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
 -   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
 -   [SublPress](https://github.com/dnstbr/sublpress)  - Post to WordPress in Sublime
--   [wp-debug-toggle](https://github.com/matthewsimo/wp-debug-toggle) - [NPM module](https://npmjs.org/package/wp-debug-toggle) to quick toggle wp_debug
 
 ##### Build scripts
 
@@ -60,6 +59,7 @@ Base Tools
 -   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
 -   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node, NPM and Ruby
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
+-   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku 
 
 ##### Theme scripts
 
@@ -130,7 +130,8 @@ Plugins that help with debugging
 
 ##### Other
 
-- [Console logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
+- [Console Logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
+- [Wp-Debug-Toggle](https://github.com/matthewsimo/wp-debug-toggle) -  Toggle wp_debug via CLI
 
 * * * * *
 
@@ -141,26 +142,28 @@ PHP Boilerplate
 
 ###### *Most of these are PHP classes*
 
-##### Plugin stuff
+##### Framework stuff
 
--   [Plugin boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
+-   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
 -   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
--   [Settings framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
+-   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
 -   [scbFramework](http://wordpress.org/extend/plugins/scb-framework) - A set of useful classes for faster plugin development 
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
+-   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - Theme options framework
+-   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
 
 ##### Widgets
 
 -   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Maintainable boilerplate for building widgets
--   [Widget helper class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - A class to ease creating Widgets
+-   [Widget Helper Class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - A class to ease creating Widgets
 
 ##### Updaters
 
--   [GitHub plugin update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
--   [Update class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
--   [wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
+-   [GitHub Plugin Update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
+-   [Update Class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
+-   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
 
 ##### Custom fields (meta box)
 
@@ -169,17 +172,16 @@ PHP Boilerplate
 -   [Custom Metaboxes and Fields](https://github.com/jaredatch/Custom-Metaboxes-and-Fields-for-WordPress)
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy)
 -   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
+-   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
+-   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
 
 Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google.com/spreadsheet/ccc?key=0AoY8IFUX301qdFhBaERLUEUwa3U0YjFYTnBmaU1mbmc#gid=3) 
 
 ##### Other
 
--   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
--   [Media Manager class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
--   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - Class for creating WordPress taxonomies custom fields
--   [Pods framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
--   [WordPress transients interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
--   [Logging class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
+-   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
+-   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
+-   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
 -   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
