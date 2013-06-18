@@ -59,7 +59,9 @@ Base Tools
 -   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
 -   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node, NPM and Ruby
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
--   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku 
+-   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku
+-   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
+-   
 
 ##### Theme scripts
 
@@ -89,7 +91,7 @@ Base Tools
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
 -   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
-
+-   [WP.NET](http://wpdotnet.com/) - WordPress compiled to .NET, yes this exists.
 
 * * * * *
 
