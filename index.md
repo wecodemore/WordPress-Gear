@@ -54,6 +54,7 @@ Base Tools
 ##### Build scripts
 
 -   [WP Stack](https://github.com/markjaquith/WP-Stack) - Capistrano deploy
+-   [Capistrano-WP](https://github.com/crowdfavorite/gem-capistrano-wp) - Alternative Capistrano deploy
 -   [Wordmove](https://github.com/welaika/wordmove) - Rails gem
 -   [Wp Project Tools](https://github.com/newsapps/wp-project-tools) - Fabric/Python CLI and automation
 -   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
