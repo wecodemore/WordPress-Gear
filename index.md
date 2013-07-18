@@ -82,6 +82,7 @@ Base Tools
 -   [Vim Syntax](https://github.com/kloppster/Wordpress-Vim-Syntax)
 -   [Vim WordPress snippets](https://github.com/sudar/vim-wordpress-snippets)
 -   [NetBeans WordPress plugin](https://github.com/junichi11/netbeans-wordpress-plugin/)
+-   [Alfred v2 workflow to search the codex Function_Reference](http://www.alfredforum.com/topic/2153-search-the-wordpress-function-reference/)
 
 
 `Misc` 
