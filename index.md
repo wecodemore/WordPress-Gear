@@ -64,12 +64,6 @@ Base Tools
 -   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
 -   
 
-##### Theme scripts
-
--   [Wordless](https://github.com/welaika/wordless) - Haml, Compass and Coffeescript (Ruby)
--   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
--   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
-
 
 `IDE bundles`
 
@@ -200,5 +194,11 @@ Theme Stuff
 
 ##### Theme tools and boilerplate
 
+-   [Wordless](https://github.com/welaika/wordless) - Haml, Compass and Coffeescript (Ruby)
+-   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
+-   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
 -   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on TwentyEleven
+
+
+
