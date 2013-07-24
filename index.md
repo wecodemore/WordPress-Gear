@@ -198,7 +198,7 @@ Theme Stuff
 -   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
 -   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
 -   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
--   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on TwentyEleven
+-   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on several themes and template hierarchy
 
 
 
