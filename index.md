@@ -175,6 +175,7 @@ PHP Boilerplate
 -   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
 -   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
+-   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - Add custom fields to your object types
 
 Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google.com/spreadsheet/ccc?key=0AoY8IFUX301qdFhBaERLUEUwa3U0YjFYTnBmaU1mbmc#gid=3) 
 
