@@ -50,6 +50,7 @@ Base Tools
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
 -   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
 -   [SublPress](https://github.com/dnstbr/sublpress)  - Post to WordPress in Sublime
+-   [wp-composer](https://github.com/srtfisher/wp-composer) - Adds Composer dependency management to plugins/themes via WP-CLI.
 
 ##### Build scripts
 
