@@ -103,6 +103,7 @@ Plugins that help with debugging
 -   [Debug Bar Extender](http://wordpress.org/extend/plugins/debug-bar-extender/) - Adds profiler and extra tools
 -   [Debug Bar Cron](http://wordpress.org/extend/plugins/debug-bar-cron/) - Display scheduled events
 -   [Debug Bar Transients](http://wordpress.org/extend/plugins/debug-bar-transients/) - Transient info
+-   [Debug Bar Actions and Filters Addon](http://wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - List of hooks( Actions + Filters )
 -   [Debug Bar Action Hooks](http://wordpress.org/extend/plugins/debug-bar-action-hooks/) - List fired hooks
 -   [Debug Bar Console](http://wordpress.org/extend/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
 -   [Debug Bar Constants](http://wordpress.org/extend/plugins/debug-bar-constants/) - List all WP and PHP constants
