@@ -34,14 +34,15 @@ Base Tools
 -   [BitBucket](https://bitbucket.org/Rarst/wordpress/overview) (Mercurial)
 
 
-`Core Unit tests`
+`Unit tests`
 
-##### Core Testing and profiling via PHPUnit + official theme sample data
+##### Unit Testing and profiling
 
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
--   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) Official sample data
--   [WP Test](http://wptest.io/) Additional test/sample data
+-   [WP Mock](https://github.com/10up/wp_mock) - Unit tests using Mockery
+-   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - Official sample data
+-   [WP Test](http://wptest.io/) - Additional test/sample data
 
 
 `Command line fu`
@@ -60,10 +61,12 @@ Base Tools
 -   [Wp Project Tools](https://github.com/newsapps/wp-project-tools) - Fabric/Python CLI and automation
 -   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
 -   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node, NPM and Ruby
+-   [YeoPress](https://github.com/wesleytodd/YeoPress) - Yeoman
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
 -   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku
 -   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
--   
+-   [Puppet WordPress](https://github.com/jonhadfield/puppet-wordpress) - Puppet
+-   [Composerpress](https://github.com/Tarendai/composerpress) - Retroactively creates a composer.json for WP
 
 
 `IDE bundles`
@@ -71,6 +74,7 @@ Base Tools
 ##### WordPress snippets and auto-completions
 
 -   [Sublime Text 2](https://github.com/purplefish32/sublime-text-2-wordpress)
+-   [Sublime Text 2](https://github.com/wycks/SublimeText-WordPress-Autocomplete)- updated
 -   [TextMate](https://github.com/Gipetto/wordpress.tmbundle)
 -   [Aptana Studio](https://github.com/aptana/wordpress.ruble)
 -   [Coda 2](https://github.com/deryckoe/WordPress-Syntax-Mode-for-Coda-2)
@@ -156,6 +160,7 @@ PHP Boilerplate
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
 -   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - Theme options framework
 -   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
+-   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework
 
 ##### Widgets
 
@@ -199,9 +204,10 @@ Theme Stuff
 
 -   [Wordless](https://github.com/welaika/wordless) - Haml, Compass and Coffeescript (Ruby)
 -   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
+-   [Compass WordPress](https://github.com/pengwynn/compass-wordpress) - Sass
 -   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
 -   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on several themes and template hierarchy
-
+-   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec 
 
 
