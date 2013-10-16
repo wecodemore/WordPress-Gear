@@ -184,7 +184,6 @@ PHP Boilerplate
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
 -   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - Add custom fields to your object types
 
-Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google.com/spreadsheet/ccc?key=0AoY8IFUX301qdFhBaERLUEUwa3U0YjFYTnBmaU1mbmc#gid=3) 
 
 ##### Other
 
@@ -194,6 +193,7 @@ Comparison of tools [CompareWP Content Type / Custom Fields](https://docs.google
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
 -   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
+-   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
 
 * * * * *
 
