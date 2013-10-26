@@ -115,6 +115,7 @@ Plugins that help with debugging
 
 ##### Debug plugins
 
+-   [Time-Stack](https://github.com/joehoyle/Time-Stack) - WordPress profiling
 -   [Core Control](http://wordpress.org/extend/plugins/core-control/) - Lots of core options
 -   [Developer](http://wordpress.org/extend/plugins/developer/installation/) - Quickly get setup
 -   [Debug This](http://wordpress.org/extend/plugins/debug-this/) - Lot of debug modes
