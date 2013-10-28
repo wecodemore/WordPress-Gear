@@ -130,6 +130,7 @@ Plugins that help with debugging
 -   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
 -   [WpDevTool](http://wordpress.org/extend/plugins/wpdevtool/) - Development tool for WP to track bugs, manage crons, permalinks, etc.
 -   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
+-   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
 
 ##### SQL debug
 
