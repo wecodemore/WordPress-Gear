@@ -38,6 +38,7 @@ Base Tools
 
 ##### Unit Testing and profiling
 
+-   [WordPress handbook guide to automated testing](http://make.wordpress.org/core/handbook/automated-testing/)
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
 -   [WP Mock](https://github.com/10up/wp_mock) - Unit tests using Mockery
