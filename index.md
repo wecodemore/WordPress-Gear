@@ -173,6 +173,7 @@ PHP Boilerplate
 -   [GitHub Plugin Update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
 -   [Update Class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
 -   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
+-   [External Update API](https://github.com/cftp/external-update-api) - Add support for updating themes and plugins via external sources instead of the WordPress.org repos
 
 ##### Custom fields (meta box)
 
