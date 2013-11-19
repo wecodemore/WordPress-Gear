@@ -117,6 +117,7 @@ Plugins that help with debugging
 ##### Debug plugins
 
 -   [Core Control](http://wordpress.org/extend/plugins/core-control/) - Lots of core options
+-   [Query Monitor](https://github.com/johnbillion/QueryMonitor) - Monitor lots of debugging things
 -   [Developer](http://wordpress.org/extend/plugins/developer/installation/) - Quickly get setup
 -   [Debug This](http://wordpress.org/extend/plugins/debug-this/) - Lot of debug modes
 -   [Debug Objects](http://wordpress.org/extend/plugins/debug-objects/) - Lots of info
