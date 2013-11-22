@@ -124,6 +124,7 @@ Plugins that help with debugging
 -   [Hook Sniffer](http://wordpress.org/extend/plugins/wordpress-hook-sniffer/) - Action and filter sequence
 -   [Depreciated Notices](http://wordpress.org/extend/plugins/log-deprecated-notices/) - Log outdated functions
 -   [Rewrite Analyzer](http://wordpress.org/extend/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
+-   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
 -   [BlackBox Debug Bar](http://wordpress.org/extend/plugins/blackbox-debug-bar/) - Another debug bar
 -   [User Switching](http://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 -   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
