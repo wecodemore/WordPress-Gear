@@ -105,15 +105,21 @@ Plugins that help with debugging
 ##### Debug Bar and extensions
 
 -   [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Maintained by core devs
--   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
--   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
--   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - Transient info
 -   [Debug Bar Actions and Filters Addon](http://wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - List of hooks( Actions + Filters )
 -   [Debug Bar Action Hooks](http://wordpress.org/plugins/debug-bar-action-hooks/) - List fired hooks
 -   [Debug Bar Console](http://wordpress.org/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
 -   [Debug Bar Constants](http://wordpress.org/plugins/debug-bar-constants/) - List all WP and PHP constants
+-   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
+-   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
+-   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - Shows which scripts and styles are loaded for the current page, including script and style dependencies
+-   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - Lists the post meta data for the current post 
 -   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Gives detailed information about the settings with which the post types in the site have been registered
+-   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - Lets you trace what plugins are causing database queries
+-   [Debug Bar Screen Info](http://wordpress.org/plugins/debug-bar-screen-info/) - Shows screen info of the current admin page
+-   [Debug Bar Super Globals](http://wordpress.org/plugins/debug-bar-super-globals/) - Displays Super Global valiables for the current request
 -   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - Show which template files are loaded for a page
+-   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - Transient info
+-   [PMC Benchmark](http://wordpress.org/plugins/pmc-benchmark/) - Benchmarking plugin to profile slow hooks
 
 ##### Debug plugins
 
@@ -132,6 +138,7 @@ Plugins that help with debugging
 -   [WpDevTool](http://wordpress.org/plugins/wpdevtool/) - Development tool for WP to track bugs, manage crons, permalinks, etc.
 -   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
 -   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
+-   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - WordPress wrapper for Kint debugging tool. Integrates with the Debug Bar is present.
 
 ##### Profiling plugins
 
