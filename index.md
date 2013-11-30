@@ -104,45 +104,45 @@ Plugins that help with debugging
 
 ##### Debug Bar and extensions
 
--   [Debug Bar](http://wordpress.org/extend/plugins/debug-bar/) - Maintained by core devs
--   [Debug Bar Extender](http://wordpress.org/extend/plugins/debug-bar-extender/) - Adds profiler and extra tools
--   [Debug Bar Cron](http://wordpress.org/extend/plugins/debug-bar-cron/) - Display scheduled events
--   [Debug Bar Transients](http://wordpress.org/extend/plugins/debug-bar-transients/) - Transient info
+-   [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Maintained by core devs
+-   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
+-   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
+-   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - Transient info
 -   [Debug Bar Actions and Filters Addon](http://wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - List of hooks( Actions + Filters )
--   [Debug Bar Action Hooks](http://wordpress.org/extend/plugins/debug-bar-action-hooks/) - List fired hooks
--   [Debug Bar Console](http://wordpress.org/extend/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
--   [Debug Bar Constants](http://wordpress.org/extend/plugins/debug-bar-constants/) - List all WP and PHP constants
+-   [Debug Bar Action Hooks](http://wordpress.org/plugins/debug-bar-action-hooks/) - List fired hooks
+-   [Debug Bar Console](http://wordpress.org/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
+-   [Debug Bar Constants](http://wordpress.org/plugins/debug-bar-constants/) - List all WP and PHP constants
 -   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Gives detailed information about the settings with which the post types in the site have been registered
 -   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - Show which template files are loaded for a page
 
 ##### Debug plugins
 
--   [Core Control](http://wordpress.org/extend/plugins/core-control/) - Lots of core options
+-   [Core Control](http://wordpress.org/plugins/core-control/) - Lots of core options
 -   [Query Monitor](https://github.com/johnbillion/QueryMonitor) - Monitor lots of debugging things
--   [Developer](http://wordpress.org/extend/plugins/developer/installation/) - Quickly get setup
--   [Debug This](http://wordpress.org/extend/plugins/debug-this/) - Lot of debug modes
--   [Debug Objects](http://wordpress.org/extend/plugins/debug-objects/) - Lots of info
--   [Hook Sniffer](http://wordpress.org/extend/plugins/wordpress-hook-sniffer/) - Action and filter sequence
--   [Depreciated Notices](http://wordpress.org/extend/plugins/log-deprecated-notices/) - Log outdated functions
--   [Rewrite Analyzer](http://wordpress.org/extend/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
+-   [Developer](http://wordpress.org/plugins/developer/installation/) - Quickly get setup
+-   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
+-   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
+-   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - Action and filter sequence
+-   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
+-   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
 -   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
--   [BlackBox Debug Bar](http://wordpress.org/extend/plugins/blackbox-debug-bar/) - Another debug bar
+-   [BlackBox Debug Bar](http://wordpress.org/plugins/blackbox-debug-bar/) - Another debug bar
 -   [User Switching](http://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 -   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
--   [WpDevTool](http://wordpress.org/extend/plugins/wpdevtool/) - Development tool for WP to track bugs, manage crons, permalinks, etc.
+-   [WpDevTool](http://wordpress.org/plugins/wpdevtool/) - Development tool for WP to track bugs, manage crons, permalinks, etc.
 -   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
 -   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
 
 ##### Profiling plugins
 
 -   [Time-Stack](https://github.com/joehoyle/Time-Stack) - WordPress profiling
--   [P3 (Plugin Performance Profiler)](http://wordpress.org/extend/plugins/p3-profiler/) - Test your plugins
--   [XHProf Profiler](http://wordpress.org/extend/plugins/wp-xhprof-profiler/) - Profile plugins and themes using XHProf (Facebook)
+-   [P3 (Plugin Performance Profiler)](http://wordpress.org/plugins/p3-profiler/) - Test your plugins
+-   [XHProf Profiler](http://wordpress.org/plugins/wp-xhprof-profiler/) - Profile plugins and themes using XHProf (Facebook)
 
 ##### SQL debug
 
--   [MySQL Profiler](http://wordpress.org/extend/plugins/mysql-profiler/)
--   [SQL Monitor](http://wordpress.org/extend/plugins/sqlmon/)
+-   [MySQL Profiler](http://wordpress.org/plugins/mysql-profiler/)
+-   [SQL Monitor](http://wordpress.org/plugins/sqlmon/)
 
 ##### Other
 
@@ -163,7 +163,7 @@ PHP Boilerplate
 -   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
 -   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
 -   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
--   [scbFramework](http://wordpress.org/extend/plugins/scb-framework) - A set of useful classes for faster plugin development 
+-   [scbFramework](http://wordpress.org/plugins/scb-framework) - A set of useful classes for faster plugin development 
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
@@ -201,7 +201,7 @@ PHP Boilerplate
 -   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
 -   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
--   [WP CoffeeScript](http://wordpress.org/extend/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
+-   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
 -   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
 
