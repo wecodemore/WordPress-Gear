@@ -117,6 +117,7 @@ Plugins that help with debugging
 -   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Detailed information about registered post types settings 
 -   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - Lets you trace what plugins are causing database queries
 -   [Debug Bar Screen Info](http://wordpress.org/plugins/debug-bar-screen-info/) - Shows screen info of the current admin page
+-   [Debug Bar Shortcodes](http://wordpress.org/plugins/debug-bar-shortcodes/) - Shows the registered shortcodes, any available information about them and where they are used
 -   [Debug Bar Super Globals](http://wordpress.org/plugins/debug-bar-super-globals/) - Displays Super Global valiables for the current request
 -   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - Show which template files are loaded for a page
 -   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - Transient info
