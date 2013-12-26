@@ -226,5 +226,5 @@ Theme Stuff
 -   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on several themes and template hierarchy
 -   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec 
-
+-   [Timber](http://github.com/jarednova/timber) - Write your theme using Twig templates (similar to Mustache, Handlebars, etc.)
 
