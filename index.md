@@ -38,9 +38,9 @@ Base Tools
 
 ##### Unit Testing and profiling
 
--   [WordPress handbook guide to automated testing](http://make.wordpress.org/core/handbook/automated-testing/)
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
+-   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - Guide to automated testing
 -   [WP Mock](https://github.com/10up/wp_mock) - Unit tests using Mockery
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - Official sample data
 -   [WP Test](http://wptest.io/) - Additional test/sample data
@@ -68,6 +68,8 @@ Base Tools
 -   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
 -   [Puppet WordPress](https://github.com/jonhadfield/puppet-wordpress) - Puppet
 -   [Composerpress](https://github.com/Tarendai/composerpress) - Retroactively creates a composer.json for WP
+-   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - Grunt to deploy a build directory to WordPress SVN
+-   [Bedrock](https://github.com/roots/bedrock) - Gets you started with the best development tools,practices, and project structure
 
 
 `IDE bundles`
@@ -75,7 +77,6 @@ Base Tools
 ##### WordPress snippets and auto-completions
 
 -   [Sublime Text 2](https://github.com/purplefish32/sublime-text-2-wordpress)
--   [Sublime Text 2](https://github.com/wycks/SublimeText-WordPress-Autocomplete)- updated
 -   [TextMate](https://github.com/Gipetto/wordpress.tmbundle)
 -   [Aptana Studio](https://github.com/aptana/wordpress.ruble)
 -   [Coda 2](https://github.com/deryckoe/WordPress-Syntax-Mode-for-Coda-2)
@@ -111,9 +112,9 @@ Plugins that help with debugging
 -   [Debug Bar Constants](http://wordpress.org/plugins/debug-bar-constants/) - List all WP and PHP constants
 -   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
 -   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
--   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - Shows which scripts and styles are loaded for the current page, including script and style dependencies
+-   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - Shows scripts/styles loaded for the current page & dependencies.
 -   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - Lists the post meta data for the current post 
--   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Gives detailed information about the settings with which the post types in the site have been registered
+-   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Detailed information about registered post types settings 
 -   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - Lets you trace what plugins are causing database queries
 -   [Debug Bar Screen Info](http://wordpress.org/plugins/debug-bar-screen-info/) - Shows screen info of the current admin page
 -   [Debug Bar Super Globals](http://wordpress.org/plugins/debug-bar-super-globals/) - Displays Super Global valiables for the current request
@@ -177,6 +178,11 @@ PHP Boilerplate
 -   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - Theme options framework
 -   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
 -   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework
+-   [Option Tree](https://github.com/valendesigns/option-tree) - UI Builder, Theme Options, and Meta Boxes
+-   [Vafpress](http://vafpress.com/vafpress-framework/) - Admin toolbox framework
+-   [Piklist](http://piklist.com/) - Powerful framework with lots of options
+-   [WPX](https://bitbucket.org/alkah3st/wp-extend) - Make it easier to use WordPress as a CMS
+-   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  Helper stuff for Devs
 
 ##### Widgets
 
@@ -190,18 +196,6 @@ PHP Boilerplate
 -   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
 -   [External Update API](https://github.com/cftp/external-update-api) - Add support for updating themes and plugins via external sources instead of the WordPress.org repos
 
-##### Custom fields (meta box)
-
--   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box)
--   [Meta Box Plugin](https://github.com/rilwis/meta-box)
--   [Custom Metaboxes and Fields](https://github.com/jaredatch/Custom-Metaboxes-and-Fields-for-WordPress)
--   [WpAlchemy](https://github.com/farinspace/wpalchemy)
--   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
--   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
--   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
--   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - Add custom fields to your object types
-
-
 ##### Other
 
 -   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
@@ -211,7 +205,30 @@ PHP Boilerplate
 -   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
 -   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
+  
 
+* * * * *
+
+Meta Fields 
+---------------
+
+##### Meta data stuff (custom fields, meta fields, meta boxes, etc)
+
+-   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box)
+-   [Meta Box Plugin](https://github.com/rilwis/meta-box)
+-   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress)
+-   [WpAlchemy](https://github.com/farinspace/wpalchemy)
+-   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
+-   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
+-   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
+-   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - Add custom fields to your object types
+-   [Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes) - Humanmade's metaboxes with custom fields that will blow your mind
+-   [Field Manager](http://fieldmanager.org/) - Fieldmanager is a toolkit for developers to create complex administration screen
+-   [Sunrise](https://bitbucket.org/newclarity/sunrise-1) - New Clarity's Admin Post Forms & Fields
+-   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - Tools for managing custom fields
+-   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- Simple Fields
+
+ 
 * * * * *
 
 Theme Stuff
@@ -227,4 +244,8 @@ Theme Stuff
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on several themes and template hierarchy
 -   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec 
 -   [Timber](http://github.com/jarednova/timber) - Write your theme using Twig templates (similar to Mustache, Handlebars, etc.)
+
+If you are looking for theme option frameworks, look above under "Framework stuff".
+
+
 
