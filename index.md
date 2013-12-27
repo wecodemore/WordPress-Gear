@@ -215,11 +215,10 @@ Meta Fields
 
 ##### Meta data stuff (custom fields, meta fields, meta boxes, etc)
 
--   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box)
--   [Meta Box Plugin](https://github.com/rilwis/meta-box)
--   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress)
--   [WpAlchemy](https://github.com/farinspace/wpalchemy)
--   [Reusable WordPress Meta Boxes](https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes)
+-   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - Class for creating custom meta boxes
+-   [Meta Box Plugin](https://github.com/rilwis/meta-box) - Easily create custom meta boxes
+-   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios 
+-   [WpAlchemy](https://github.com/farinspace/wpalchemy) - Thin meta framework
 -   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
 -   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - Add custom fields to your object types
