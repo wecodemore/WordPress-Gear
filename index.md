@@ -169,6 +169,7 @@ PHP Boilerplate
 
 ##### Framework stuff
 
+-   [Fields Framework](http://wordpress.org/plugins/fields-framework/) -  A framework which can be used by developers to add fields to various areas of the administration panel either manually or using the Visual Builder.
 -   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
 -   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
 -   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
