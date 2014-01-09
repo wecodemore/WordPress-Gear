@@ -66,6 +66,7 @@ Base Tools
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
 -   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku
 -   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
+-   [VCCW](https://github.com/miya0001/vagrant-chef-centos-wordpress) - Vagrant designed for development of WordPress plugins, themes, or websites
 -   [Puppet WordPress](https://github.com/jonhadfield/puppet-wordpress) - Puppet
 -   [Composerpress](https://github.com/Tarendai/composerpress) - Retroactively creates a composer.json for WP
 -   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - Grunt to deploy a build directory to WordPress SVN
