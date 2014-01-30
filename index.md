@@ -244,7 +244,8 @@ Theme Stuff
 -   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
 -   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on several themes and template hierarchy
--   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec 
+-   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec
+-   [Monster Widget](Monster Widget) - Provides a quick and easy method of adding all core widgets to a sidebar for testing purposes.
 -   [Timber](http://github.com/jarednova/timber) - Write your theme using Twig templates (similar to Mustache, Handlebars, etc.)
 
 If you are looking for theme option frameworks, look above under "Framework stuff".
