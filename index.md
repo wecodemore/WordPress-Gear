@@ -186,6 +186,7 @@ PHP Boilerplate
 -   [Piklist](http://piklist.com/) - Powerful framework with lots of options
 -   [WPX](https://bitbucket.org/alkah3st/wp-extend) - Make it easier to use WordPress as a CMS
 -   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  Helper stuff for Devs
+-   [WordPress Plugin Framework] (https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
 
 ##### Widgets
 
