@@ -221,6 +221,7 @@ Meta Fields
 -   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - Class for creating custom meta boxes
 -   [Meta Box Plugin](https://github.com/rilwis/meta-box) - Easily create custom meta boxes
 -   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios 
+-   [Humanmade Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes) - Meta boxes framework forked from WebDevStudios'
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy) - Thin meta framework
 -   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
