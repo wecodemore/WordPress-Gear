@@ -31,8 +31,6 @@ Base Tools
 
 -   [SVN](http://core.svn.wordpress.org/) (Subversion)
 -   [GitHub](https://github.com/WordPress/WordPress) (Git)
--   [BitBucket](https://bitbucket.org/Rarst/wordpress/overview) (Mercurial)
-
 
 ##### Revision control (trunk) - These repos contain source code, tools, and tests.
 
