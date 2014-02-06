@@ -27,11 +27,14 @@ Base Tools
 -   [Latest Stable](http://wordpress.org/download/) - wordpress.org
 -   [Nightly](http://wordpress.org/download/nightly/) - wordpress.org
 
-##### Revision control - These builds roll the latest commits.
+##### Revision control (core) - These builds roll the latest commits.
 
 -   [SVN](http://core.svn.wordpress.org/) (Subversion)
 -   [GitHub](https://github.com/WordPress/WordPress) (Git)
--   [BitBucket](https://bitbucket.org/Rarst/wordpress/overview) (Mercurial)
+
+##### Revision control (trunk) - These repos contain source code, tools, and tests.
+
+-   [SVN](http://develop.svn.wordpress.org/trunk/) (Subversion)
 
 
 `Unit tests`
@@ -65,7 +68,7 @@ Base Tools
 -   [YeoPress](https://github.com/wesleytodd/YeoPress) - Yeoman
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
 -   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku
--   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
+-   [Varying Vagrant](https://github.com/Varying-Vagrant-Vagrants/VVV) - Varying Vagrant Vagrants for WP
 -   [VCCW](https://github.com/miya0001/vagrant-chef-centos-wordpress) - Vagrant designed for development of WordPress plugins, themes, or websites
 -   [Puppet WordPress](https://github.com/jonhadfield/puppet-wordpress) - Puppet
 -   [Composerpress](https://github.com/Tarendai/composerpress) - Retroactively creates a composer.json for WP
