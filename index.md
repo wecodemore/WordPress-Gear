@@ -181,7 +181,7 @@ PHP Boilerplate
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
--   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - Theme options framework
+-   [Redux Framework](https://github.com/ReduxFramework/ReduxFramework) - Theme options framework
 -   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
 -   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework
 -   [Option Tree](https://github.com/valendesigns/option-tree) - UI Builder, Theme Options, and Meta Boxes
