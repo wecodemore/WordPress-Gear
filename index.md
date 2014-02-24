@@ -89,6 +89,8 @@ Base Tools
 -   [NetBeans WordPress plugin](https://github.com/junichi11/netbeans-wordpress-plugin/)
 -   [Alfred v2 codex function reference](http://www.alfredforum.com/topic/2153-search-the-wordpress-function-reference/)
 -   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex) - Search the WordPress Codex inside Sublime
+-	[PHPStorm integration](https://github.com/x-team/wp-phpstorm)
+-	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
 
 
 `Misc` 
@@ -97,7 +99,7 @@ Base Tools
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
--   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
+-   [WordPress-Coding-Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
 -   [WP.NET](http://wpdotnet.com/) - WordPress compiled to .NET, yes this exists.
 
 * * * * *
