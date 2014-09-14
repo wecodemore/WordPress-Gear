@@ -129,6 +129,7 @@ Plugins that help with debugging
 -   [Debug Bar Super Globals](http://wordpress.org/plugins/debug-bar-super-globals/) - Displays Super Global valiables for the current request
 -   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - Show which template files are loaded for a page
 -   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - Transient info
+-   [Debug Bar Custom Info](https://wordpress.org/plugins/debug-bar-custom-info/) - Output custom debug info just like `console.log`
 -   [PMC Benchmark](http://wordpress.org/plugins/pmc-benchmark/) - Benchmarking plugin to profile slow hooks
 
 ##### Debug plugins
@@ -193,8 +194,8 @@ PHP Boilerplate
 -   [Piklist](http://piklist.com/) - Powerful framework with lots of options
 -   [WPX](https://bitbucket.org/alkah3st/wp-extend) - Make it easier to use WordPress as a CMS
 -   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  Helper stuff for Devs
--   [WordPress Plugin Framework] (https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
--   [WPDK - Wordpress Developer Kit] (http://wpdk.io) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
+-   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
+-   [WPDK - Wordpress Developer Kit](http://wpdk.io) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
 -   [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template) - A robust code template for creating a standards-compliant WordPress plugin.
 
 ##### Widgets
