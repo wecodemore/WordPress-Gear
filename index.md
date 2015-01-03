@@ -260,6 +260,8 @@ Theme Stuff
 -   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec
 -   [Monster Widget](http://wordpress.org/plugins/monster-widget/) - Provides a quick and easy method of adding all core widgets to a sidebar for testing purposes.
 -   [Timber](http://github.com/jarednova/timber) - Write your theme using Twig templates (similar to Mustache, Handlebars, etc.)
+-   [Cutlass](https://github.com/zach-adams/cutlass-wp-theme) - Develop your theme using Laravel's Blade Templating Engine
+-   [Sprig](https://github.com/zach-adams/sprig) - Develop your theme using the Twig Templating Engine (similar to Timber)
 
 If you are looking for theme option frameworks, look above under "Framework stuff".
 
