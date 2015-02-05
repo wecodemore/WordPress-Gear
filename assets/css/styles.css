@@ -9,6 +9,8 @@ Secondary: #1c5e88 #294e66  #093959  #4f96c4  #6ea2c4 (blue_)
 Thirdary: #6dbf1e  #618f35  #427c0a  #97df52  #aadf77 (green)
 */
 
+header { width:auto; } #header-wrap {width:650px};
+
 @font-face {
     font-family: 'HeydingsCommonIconsRegular';
     src: url('../fonts/heydings_icons-webfont.eot');
