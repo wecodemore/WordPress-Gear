@@ -140,7 +140,7 @@ Plugins that help with debugging
 -   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
 -   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
 -   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - Action and filter sequence
--   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
+-   [Deprecated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
 -   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
 -   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
 -   [BlackBox Debug Bar](http://wordpress.org/plugins/blackbox-debug-bar/) - Another debug bar
