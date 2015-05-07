@@ -54,7 +54,7 @@ Base Tools
 `Command line fu`
 
 -   [WP-CLI](https://github.com/wp-cli/wp-cli) - The command-line tool for managing WordPress.
--   [EasyEngine] (https://github.com/rtCamp/easyengine/) - Python tool to easily manage your WordPress websites with NGINX webserver (supported on Ubuntu and Debian Linux).
+-   [EasyEngine](https://github.com/rtCamp/easyengine/) - Python tool to easily manage your WordPress websites with NGINX webserver - supported on Ubuntu and Debian Linux.
 -   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
 -   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
 -   [SublPress](https://github.com/dnstbr/sublpress)  - Post to WordPress in Sublime
