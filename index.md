@@ -215,12 +215,13 @@ PHP Boilerplate
 
 -   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
 -   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
--   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
+-   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A general logging system
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
 -   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
 -   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
-  
+-   [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - Drop-in class to require and/or recommend plugins for Themes and Plugins (dependency management). You can reference bundled plugins, plugin from the WP repo and externally hosted plugins. See [their website](http://tgmpluginactivation.com/) for more information.
+
 
 * * * * *
 
