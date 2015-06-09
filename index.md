@@ -77,6 +77,7 @@ Base Tools
 -   [Composerpress](https://github.com/Tarendai/composerpress) - Retroactively creates a composer.json for WP
 -   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - Grunt to deploy a build directory to WordPress SVN
 -   [Bedrock](https://github.com/roots/bedrock) - Gets you started with the best development tools,practices, and project structure
+-   [WPacked](https://github.com/enricodeleo/wpacked) - Be ready in less than a minute on your local machine without any requirement. PHP all the way, in a fashionable self-contained package ready to be deploied.
 
 
 `IDE bundles`
