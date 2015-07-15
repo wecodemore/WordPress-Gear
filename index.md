@@ -243,6 +243,7 @@ Meta Fields
 -   [Sunrise](https://bitbucket.org/newclarity/sunrise-1) - New Clarity's Admin Post Forms & Fields
 -   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - Tools for managing custom fields
 -   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- Simple Fields
+-   [Advanced Custom Fields](http://www.advancedcustomfields.com/) - Custom fields gui controlled plugin, with prebuilt fields types, such as, relationship, wysiwyg, image upload, repeater, flexible content
 
  
 * * * * *
