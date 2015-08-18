@@ -152,6 +152,7 @@ Plugins that help with debugging
 -   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
 -   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
 -   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - WordPress wrapper for Kint debugging tool. Integrates with the Debug Bar is present.
+-   [WP PHP Console](https://github.com/nekojira/wp-php-console) - Debug WordPress from Chrome Dev Tools console and run your PHP code live from a browser terminal.
 
 ##### Profiling plugins
 
@@ -200,6 +201,7 @@ PHP Boilerplate
 -   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
 -   [WPDK - Wordpress Developer Kit](http://wpdk.io) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
 -   [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template) - A robust code template for creating a standards-compliant WordPress plugin.
+-   [WP Requirements](https://github.com/nekojira/wp-requirements) - A little utility class template to help you check for WP version, PHP version and PHP extensions before letting users activate a plugin that has minimum requirements.
 
 ##### Widgets
 
