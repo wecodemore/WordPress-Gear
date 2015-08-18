@@ -201,6 +201,7 @@ PHP Boilerplate
 -   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
 -   [WPDK - Wordpress Developer Kit](http://wpdk.io) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
 -   [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template) - A robust code template for creating a standards-compliant WordPress plugin.
+-   [WP Requirements](https://github.com/nekojira/wp-requirements) - A little utility class template to help you check for WP version, PHP version and PHP extensions before letting users activate a plugin that has minimum requirements.
 
 ##### Widgets
 
