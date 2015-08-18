@@ -152,6 +152,7 @@ Plugins that help with debugging
 -   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
 -   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
 -   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - WordPress wrapper for Kint debugging tool. Integrates with the Debug Bar is present.
+-   [WP PHP Console](https://github.com/nekojira/wp-php-console) - Debug WordPress from Chrome Dev Tools console and run your PHP code live from a browser terminal.
 
 ##### Profiling plugins
 
