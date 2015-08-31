@@ -246,6 +246,7 @@ Meta Fields
 -   [Sunrise](https://bitbucket.org/newclarity/sunrise-1) - New Clarity's Admin Post Forms & Fields
 -   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - Tools for managing custom fields
 -   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- Simple Fields
+-   [Page Type API](http://wp-papi.github.io/) - Papi has a different approach on how to work with fields and page types in WordPress.
 
  
 * * * * *
