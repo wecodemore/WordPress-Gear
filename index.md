@@ -225,7 +225,7 @@ PHP Boilerplate
 -   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
 -   [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - Drop-in class to require and/or recommend plugins for Themes and Plugins (dependency management). You can reference bundled plugins, plugin from the WP repo and externally hosted plugins. See [their website](http://tgmpluginactivation.com/) for more information.
 -   [WP Requirements](https://github.com/nekojira/wp-requirements) - A little utility class template to adapt in your plugin project to help you check for WP version, PHP version and PHP extensions before letting users activate a plugin that has minimum requirements.
--   [SMTP URI](https://wordpress.org/plugins/smtp-uri/) Quickly set up SMTP. "smtp://localhost:2525"
+-   [SMTP URI](https://github.com/szepeviktor/smtp-uri) Quickly set up SMTP. "smtp://localhost:2525"
 
 
 * * * * *
