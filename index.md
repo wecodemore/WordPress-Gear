@@ -143,7 +143,7 @@ Plugins that help with debugging
 -   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
 -   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
 -   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
--   [Rewrite Rule Testing](https://wordpress.org/plugins/rewrite-testing/) - Unit test your rewrite rules from the WordPress Admin
+-   [Rewrite Rule Testing](https://github.com/alleyinteractive/rewrite-testing) - Unit test your rewrite rules from the WordPress Admin
 -   [BlackBox Debug Bar](http://wordpress.org/plugins/blackbox-debug-bar/) - Another debug bar
 -   [User Switching](http://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
 -   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
