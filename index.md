@@ -226,6 +226,7 @@ PHP Boilerplate
 -   [Update Class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
 -   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
 -   [External Update API](https://github.com/cftp/external-update-api) - Add support for updating themes and plugins via external sources instead of the WordPress.org repos
+-   [Plugin Update Checker](https://github.com/YahnisElsts/plugin-update-checker) - Add support for updating externally hosted plugins via the normal WP update flow. Easiest to be used in combination with [WP Update Server](https://github.com/YahnisElsts/wp-update-server) which will provide API responses for those plugins similar to the WP.org API expected responses.
 
 ##### Other
 
