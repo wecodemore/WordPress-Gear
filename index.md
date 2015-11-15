@@ -134,10 +134,19 @@ Plugins that help with debugging
 -   [Debug Bar Custom Info](https://wordpress.org/plugins/debug-bar-custom-info/) - Output custom debug info just like `console.log`
 -   [PMC Benchmark](http://wordpress.org/plugins/pmc-benchmark/) - Benchmarking plugin to profile slow hooks
 
+##### Query Monitor and extensions
+
+-   [Query Monitor](https://github.com/johnbillion/query-monitor) - A WordPress plugin for monitoring database queries, hooks, conditionals, HTTP requests, query vars, environment, redirects, and more.
+-   [Query Monitor bbPress & BuddyPress Conditionals](https://wordpress.org/plugins/query-monitor-bbpress-buddypress-conditionals/) - Adds bbPress & BuddyPress functions to the Conditionals panel.
+-   [Query Monitor Extend](https://github.com/crstauf/query-monitor-extend) - Lists conditionals for WooCommerce, plus many core constants and paths.
+-   [Query Monitor Included Files](https://github.com/khromov/wp-query-monitor-included-files) - Shows the included files for each page load, along with their component and file size.
+-   [Query Monitor Sage Template](https://github.com/khromov/wp-query-monitor-sage-template) - Shows the active [Sage](https://roots.io/sage/) template in use.
+-   [Query Monitor Checking Variable](https://wordpress.org/plugins/query-monitor-extension-checking-variables/) - Check the value of variables in your code. Outputs to Query Monitor or to the browser console.
+-   Query Monitor also transparently supports all [Debug Bar](https://wordpress.org/plugins/debug-bar/) add-on plugins.
+
 ##### Debug plugins
 
 -   [Core Control](http://wordpress.org/plugins/core-control/) - Lots of core options
--   [Query Monitor](https://github.com/johnbillion/QueryMonitor) - Monitor lots of debugging things
 -   [Developer](http://wordpress.org/plugins/developer/installation/) - Quickly get setup
 -   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
 -   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
