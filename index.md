@@ -95,6 +95,7 @@ Base Tools
 -   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex) - Search the WordPress Codex inside Sublime
 -	[PHPStorm integration](https://github.com/x-team/wp-phpstorm)
 -	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
+-	  [Brackets](https://github.com/Tusko/brackets-wp-hint/)
 
 
 `Misc` 
