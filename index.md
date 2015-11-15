@@ -202,6 +202,7 @@ PHP Boilerplate
 -   [Themosis MVC Framework](http://framework.themosis.com/) - MVC theme development framework, inspired by Laravel
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
 -   [Redux Framework](https://github.com/ReduxFramework/ReduxFramework) - Theme options framework
+-   [Kirki Toolkit](https://github.com/aristath/kirki) - Theme Options framework using the Customizer
 -   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
 -   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework
 -   [Option Tree](https://github.com/valendesigns/option-tree) - UI Builder, Theme Options, and Meta Boxes
@@ -271,6 +272,7 @@ Theme Stuff
 ##### Theme tools and boilerplate
 
 -   [Theme Customizer Controls](https://github.com/paulund/Wordpress-Theme-Customizer-Custom-Controls) - Custom controls for your theme customizer page
+-   [Kirki Toolkit](https://github.com/aristath/kirki) - Custom controls & API for the Customizer
 -   [Wordless](https://github.com/welaika/wordless) - Haml, Compass and Coffeescript (Ruby)
 -   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
 -   [Compass WordPress](https://github.com/pengwynn/compass-wordpress) - Sass
