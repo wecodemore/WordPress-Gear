@@ -234,6 +234,7 @@ PHP Boilerplate
 -   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
 -   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
 -   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A general logging system
+-   [Simple History](https://github.com/bonny/WordPress-Simple-History) - A logging tool with a pretty GUI. Logs user actions.
 -   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
 -   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
