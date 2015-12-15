@@ -193,32 +193,32 @@ PHP Boilerplate
 
 ##### Framework stuff
 
--   [Fields Framework](http://wordpress.org/plugins/fields-framework/) -  A framework which can be used by developers to add fields to various areas of the administration panel either manually or using the Visual Builder.
--   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
--   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
--   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
--   [scbFramework](http://wordpress.org/plugins/scb-framework) - A set of useful classes for faster plugin development 
+-   [Fields Framework](https://wordpress.org/plugins/fields-framework/) -  A framework which can be used by developers to add fields to various areas of the administration panel either manually or using the Visual Builder. (last updated 01/11/2015)
+-   [Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) / [WPPB.io](http://wppb.io/) / - Organized, maintainable boilerplate for building plugins
+-   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices (last updated 11/28/2012)
+-   [Settings Framework](https://github.com/jamesckemp/WordPress-Settings-Framework) - A framework for the WordPress settings API
+-   [scbFramework](https://wordpress.org/plugins/scb-framework/) - A set of useful classes for faster plugin development (last updated 04/08/2013)
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 -   [Themosis MVC Framework](http://framework.themosis.com/) - MVC theme development framework, inspired by Laravel
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
 -   [Redux Framework](https://github.com/ReduxFramework/ReduxFramework) - Theme options framework
 -   [Kirki Toolkit](https://github.com/aristath/kirki) - Theme Options framework using the Customizer
--   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
--   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework
+-   [Pods Framework](http://pods.io/) -  Expansive Framework  for custom content and fields
+-   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework (last updated 05/09/2013)
 -   [Option Tree](https://github.com/valendesigns/option-tree) - UI Builder, Theme Options, and Meta Boxes
 -   [Vafpress](http://vafpress.com/vafpress-framework/) - Admin toolbox framework
--   [Piklist](http://piklist.com/) - Powerful framework with lots of options
--   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  Helper stuff for Devs
--   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
--   [WPDK - Wordpress Developer Kit](http://wpdk.io) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
+-   [Piklist](https://piklist.com/) - Powerful framework with lots of options
+-   [Wordpress Cuztom Helper](https://github.com/gizburdt/cuztom) -  Quickly register Custom Post Types, Taxonomies, Meta Boxes, Menu Pages and Sidebars
+-   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Boilerplate) - OOP framework for quickly building WordPress plugins (last updated 02/01/2015)
+-   [WPDK - Wordpress Developer Kit](http://wpxtreme.github.io/wpdk/) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
 -   [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template) - A robust code template for creating a standards-compliant WordPress plugin.
--   [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered) - The WordPress Plugin Boilerplate Powered is a complete foundation (without framework with many independent libaries) for building your WordPress plugins. Yeoman Generator avalaible and Grunt & Sass support.
+-   [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered) - The WordPress Plugin Boilerplate Powered is a complete foundation (without framework with many independent libraries) for building your WordPress plugins. Yeoman Generator available and Grunt & Sass support.
 
 ##### Widgets
 
--   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Maintainable boilerplate for building widgets
--   [Widget Helper Class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - A class to ease creating Widgets
+-   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Maintainable boilerplate for building widgets (last updated 09/11/2014)
+-   [Widget Helper Class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - A class to ease creating Widgets (last updated 05/06/2012)
 
 ##### Updaters
 
