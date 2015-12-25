@@ -151,7 +151,7 @@ Plugins that help with debugging
 -   [Developer](http://wordpress.org/plugins/developer/installation/) - Quickly get setup
 -   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
 -   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
--   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - Action and filter sequence
+-   [Hook Sniffer](https://wordpress.org/plugins/hook-sniffer/) - Action and filter sequence
 -   [Deprecated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
 -   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
 -   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
@@ -161,7 +161,7 @@ Plugins that help with debugging
 -   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
 -   [WpDevTool](http://wordpress.org/plugins/wpdevtool/) - Development tool for WP to track bugs, manage crons, permalinks, etc.
 -   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
--   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
+-   [WP Crontrol](http://wordpress.org/plugins/wp-crontrol/) - Lets you view and control what's happening in the WP-Cron system
 -   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - WordPress wrapper for Kint debugging tool. Integrates with the Debug Bar is present.
 -   [WP PHP Console](https://github.com/nekojira/wp-php-console) - Debug WordPress from Chrome Dev Tools console and run your PHP code live from a browser terminal.
 -   [Option Inspector](https://wordpress.org/plugins/options-inspector/) - Inspect and edit options, even serialized ones. 
