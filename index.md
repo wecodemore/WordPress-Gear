@@ -86,6 +86,12 @@ Base Tools
 
 
 
+##### Auto-sites for Varying Vagrant Vagrants
+-   [VVV Site Creation Wizard](https://github.com/bradp/vv) - Easily create new site setups for VVV.
+-   [WP Reference](https://github.com/keesiemeijer/wp-reference) - VVV auto-site setup to obtain a local version of the developer code reference.
+-   [Theme Review](https://github.com/aubreypwd/wordpress-themereview-vvv) - VVV auto-site setup for reviewing and testing themes for WordPress.org themes.
+-   [Plugin Development & Debugging](https://github.com/jrfnl/wordpress-plugins-tutorial) - VVV auto-site setup for developing, testing and debugging plugins.
+
 
 `IDE bundles`
 
