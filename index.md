@@ -32,11 +32,13 @@ Base Tools
 ##### Revision control (core) - These builds roll the latest commits.
 
 -   [SVN](http://core.svn.wordpress.org/) (Subversion)
+-   [Git](git://core.git.wordpress.org/) (Git)
 -   [GitHub](https://github.com/WordPress/WordPress) (Git)
 
 ##### Revision control (trunk) - These repos contain source code, tools, and tests.
 
 -   [SVN](http://develop.svn.wordpress.org/trunk/) (Subversion)
+-   [Git](git://develop.git.wordpress.org/) (Git)
 
 
 `Unit tests`
