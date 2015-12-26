@@ -290,4 +290,12 @@ Theme Stuff
 If you are looking for theme option frameworks, look above under "Framework stuff".
 
 
+* * * * *
 
+Internationalization & Localization Stuff
+---------------
+
+##### Helper plugins
+
+-   [Pig Latin](https://wordpress.org/plugins/piglatin/) - Changes all text strings into Pig Latin to easily spot which strings don't use localization functions.
+-   [RTL Tester](https://wordpress.org/plugins/rtl-tester/) - Test your themes and plugins in Right-to-Left mode.
