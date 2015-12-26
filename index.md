@@ -179,8 +179,10 @@ Plugins that help with debugging
 
 ##### Other
 
-- [Console Logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
-- [Wp-Debug-Toggle](https://github.com/matthewsimo/wp-debug-toggle) -  Toggle wp_debug via CLI
+-   [Console Logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
+-   [Wp-Debug-Toggle](https://github.com/matthewsimo/wp-debug-toggle) -  Toggle wp_debug via CLI
+-   [Demo Data Creator](https://wordpress.org/plugins/demo-data-creator/) - Easily fill a test install with data to test with. Can create demo users, blogs, posts, comments and more.
+
 
 * * * * *
 
