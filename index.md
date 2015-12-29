@@ -106,6 +106,7 @@ Base Tools
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
 -   [WordPress-Coding-Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
 -   [WP.NET](http://wpdotnet.com/) - WordPress compiled to .NET, yes this exists.
+-   [WordPress Packagist](http://wpackagist.org/) - Mirror of the wp.org theme and plugin repositories for use with Composer.
 
 * * * * *
 
