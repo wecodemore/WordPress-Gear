@@ -225,6 +225,7 @@ PHP Boilerplate
 
 ##### Updaters
 
+-   [Github Updater](https://github.com/afragen/github-updater) - WordPress plugin / theme updates via GitHub (and GitHub Enterprise), GitLab
 -   [GitHub Plugin Update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
 -   [Update Class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
 -   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
