@@ -127,6 +127,7 @@ Plugins that help with debugging
 -   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
 -   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
 -   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - Shows scripts/styles loaded for the current page & dependencies.
+-   [Debug Bar Localization](https://wordpress.org/plugins/debug-bar-localization/) - Shows information about the locale of the WP install, the language files loaded and missing `load_..._textdomain()` calls.
 -   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - Lists the post meta data for the current post 
 -   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Detailed information about registered post types settings 
 -   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - Lets you trace what plugins are causing database queries
