@@ -151,7 +151,7 @@ Plugins that help with debugging
 ##### Debug plugins
 
 -   [Core Control](http://wordpress.org/plugins/core-control/) - Lots of core options
--   [Developer](http://wordpress.org/plugins/developer/installation/) - Quickly get setup
+-   [Developer](http://wordpress.org/plugins/developer/) - Quickly get setup
 -   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
 -   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
 -   [Hook Sniffer](https://wordpress.org/plugins/hook-sniffer/) - Action and filter sequence
