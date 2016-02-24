@@ -222,6 +222,7 @@ PHP Boilerplate
 -   [Option Tree](https://github.com/valendesigns/option-tree) - UI Builder, Theme Options, and Meta Boxes
 -   [Vafpress](http://vafpress.com/vafpress-framework/) - Admin toolbox framework
 -   [Piklist](http://piklist.com/) - Powerful framework with lots of options
+-   [Codestar Framework])(http://codestarframework.com/) - Lightweight Framework for Theme Options, Meta fields, Shortcodes, and Customizer
 -   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  Helper stuff for Devs
 -   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Framework) - OOP framework for quicly building WordPress plugins
 -   [WPDK - Wordpress Developer Kit](http://wpdk.io) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
