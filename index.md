@@ -100,13 +100,20 @@ Base Tools
 -	  [Brackets](https://github.com/Tusko/brackets-wp-hint/)
 
 
-`Misc` 
+`Code sniffers & fixing`
 
--   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards
+-   [WordPress Coding Standards Handbook](https://make.wordpress.org/core/handbook/best-practices/coding-standards/) - The official CSS, HTML, JS and PHP coding standards for WordPress.
+-   [WordPress-Coding-Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions.
+-   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards.
+-   [PHPCompatibility](https://github.com/wimg/PHPCompatibility) - PHP CodeSniffer to test your code for PHP cross-version compatibility so you can catch those non-PHP 5.2 compatible syntaxes early.
+-   [JSHint Config](https://develop.svn.wordpress.org/trunk/.jshintrc) - The official JS hint configuration.
+
+
+`Misc`
+
 -   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
 -   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
 -   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
--   [WordPress-Coding-Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
 -   [WP.NET](http://wpdotnet.com/) - WordPress compiled to .NET, yes this exists.
 -   [WordPress Packagist](http://wpackagist.org/) - Mirror of the wp.org theme and plugin repositories for use with Composer.
 
