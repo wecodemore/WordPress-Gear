@@ -175,6 +175,7 @@ Plugins that help with debugging
 -   [Time-Stack](https://github.com/joehoyle/Time-Stack) - WordPress profiling
 -   [P3 (Plugin Performance Profiler)](http://wordpress.org/plugins/p3-profiler/) - Test your plugins
 -   [XHProf Profiler](http://wordpress.org/plugins/wp-xhprof-profiler/) - Profile plugins and themes using XHProf (Facebook)
+-   [Laps](https://github.com/Rarst/laps) - Light-weight profiling plugin
 
 ##### SQL debug
 
