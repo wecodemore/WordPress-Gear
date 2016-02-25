@@ -186,6 +186,7 @@ Plugins that help with debugging
 -   [P3 (Plugin Performance Profiler)](http://wordpress.org/plugins/p3-profiler/) - Test your plugins
 -   [XHProf Profiler](http://wordpress.org/plugins/wp-xhprof-profiler/) - Profile plugins and themes using XHProf (Facebook)
 -   [Laps](https://github.com/Rarst/laps) - Light-weight profiling plugin
+-   [What's running](https://wordpress.org/plugins/whats-running/) - Lists all files which were loaded (included/required) for the current page request, with file size indicator, in the page footer.
 
 ##### SQL debug
 
