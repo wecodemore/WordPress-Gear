@@ -271,6 +271,7 @@ PHP Boilerplate
 
 ##### Other
 
+-   [GenerateWP](https://generatewp.com/) - Generate the code for adding taxonomies, post types, sidebars, menus, shortcodes, queries, cron jobs and much more.
 -   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
 -   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
 -   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A general logging system
