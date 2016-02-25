@@ -151,11 +151,14 @@ Plugins that help with debugging
 
 -   [Query Monitor](https://github.com/johnbillion/query-monitor) - A WordPress plugin for monitoring database queries, hooks, conditionals, HTTP requests, query vars, environment, redirects, and more.
 -   [Query Monitor bbPress & BuddyPress Conditionals](https://wordpress.org/plugins/query-monitor-bbpress-buddypress-conditionals/) - Adds bbPress & BuddyPress functions to the Conditionals panel.
+-   [Query Monitor Checking Variable](https://wordpress.org/plugins/query-monitor-extension-checking-variables/) - Check the value of variables in your code. Outputs to Query Monitor or to the browser console.
 -   [Query Monitor Extend](https://github.com/crstauf/query-monitor-extend) - Lists conditionals for WooCommerce, plus many core constants and paths.
+-   [Query Monitor Flamegraph](https://github.com/humanmade/query-monitor-flamegraph) - Add profiling framegraphs to Query Monitor. Requires the [forp](http://anthonyterrien.com/forp/) PHP extension.
 -   [Query Monitor Included Files](https://github.com/khromov/wp-query-monitor-included-files) - Shows the included files for each page load, along with their component and file size.
 -   [Query Monitor Sage Template](https://github.com/khromov/wp-query-monitor-sage-template) - Shows the active [Sage](https://roots.io/sage/) template in use.
--   [Query Monitor Checking Variable](https://wordpress.org/plugins/query-monitor-extension-checking-variables/) - Check the value of variables in your code. Outputs to Query Monitor or to the browser console.
--   Query Monitor also transparently supports all [Debug Bar](https://wordpress.org/plugins/debug-bar/) add-on plugins.
+
+Query Monitor also transparently supports all [Debug Bar](http://wpgear.org/#debug-bar-extensions) add-on plugins.
+
 
 ##### Debug plugins
 
