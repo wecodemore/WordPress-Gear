@@ -254,6 +254,7 @@ PHP Boilerplate
 -   [WPDK - Wordpress Developer Kit](http://wpxtreme.github.io/wpdk/) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
 -   [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template) - A robust code template for creating a standards-compliant WordPress plugin.
 -   [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered) - The WordPress Plugin Boilerplate Powered is a complete foundation (without framework with many independent libraries) for building your WordPress plugins. Yeoman Generator available and Grunt & Sass support.
+-   [Implicit Hooks](https://github.com/x00/wordpress-implict-hooks) Lightweight and embeddable framework delivering Implicit Hooks, services / dependency injection and extensibility. Comes with an installer and MVC and basic templates, or provide your own, to set up your projects in no time.
 
 ##### Widgets
 
