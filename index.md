@@ -81,6 +81,7 @@ Base Tools
 -   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - Grunt to deploy a build directory to WordPress SVN
 -   [Bedrock](https://github.com/roots/bedrock) - Gets you started with the best development tools,practices, and project structure
 -   [WPacked](https://github.com/enricodeleo/wpacked) - A development starter kit with portability and immediate deployment in mind
+-   [wp-scratch-box](https://github.com/apleasantview/wp-scratch-box) - A Vagrant config for WP trainings, workshops, staging environments, ...
 
 
 `IDE bundles`
