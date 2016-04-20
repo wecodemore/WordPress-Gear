@@ -52,7 +52,7 @@ Base Tools
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - Official sample data
 -   [WP Test](http://wptest.io/) - Additional test/sample data
 -   [Brain Monkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
-
+-   [WP Codeception](https://github.com/10up/wp-codeception) - WordPress integrates for Codeception a PHP testing framework
 
 `Command line fu`
 
