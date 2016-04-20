@@ -51,6 +51,7 @@ Base Tools
 -   [WP Mock](https://github.com/10up/wp_mock) - Unit tests using Mockery
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - Official sample data
 -   [WP Test](http://wptest.io/) - Additional test/sample data
+-   [Brain Monkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
 
 
 `Command line fu`
