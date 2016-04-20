@@ -222,6 +222,8 @@ Query Monitor also transparently supports all [Debug Bar](http://wpgear.org/#deb
 -   [Console Logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
 -   [Wp-Debug-Toggle](https://github.com/matthewsimo/wp-debug-toggle) -  Toggle wp_debug via CLI
 -   [Demo Data Creator](https://wordpress.org/plugins/demo-data-creator/) - Easily fill a test install with data to test with. Can create demo users, blogs, posts, comments and more.
+-   [wptest.io](http://wptest.io/) - A set of test data derived from WordPress [Theme Unit Test Codex](http://codex.wordpress.org/Theme_Unit_Test)
+-   [Fakerpress](https://de.wordpress.org/plugins/fakerpress/) - Generate tons of complex dummy content
 
 
 * * * * *
