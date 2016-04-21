@@ -29,30 +29,37 @@ Base Tools
 -   [Latest Stable](http://wordpress.org/download/) - wordpress.org
 -   [Nightly](http://wordpress.org/download/nightly/) - wordpress.org
 
-##### Revision control (core) - These builds roll the latest commits.
+`Revision control`
+
+##### Core - These builds roll the latest commits.
 
 -   [SVN](http://core.svn.wordpress.org/) (Subversion)
 -   [Git](git://core.git.wordpress.org/) (Git)
 -   [GitHub](https://github.com/WordPress/WordPress) (Git)
 
-##### Revision control (trunk) - These repos contain source code, tools, and tests.
+##### Trunk - These repos contain source code, tools, and tests.
 
 -   [SVN](http://develop.svn.wordpress.org/trunk/) (Subversion)
 -   [Git](git://develop.git.wordpress.org/) (Git)
 
+`Quality Control`
 
-`Unit tests`
-
-##### Unit Testing and profiling
+##### Profiling
 
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
 -   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - Guide to automated testing
--   [WP Mock](https://github.com/10up/wp_mock) - Unit tests using Mockery
+
+`Quality Assurance`
+
+##### Testing
+-   [WordPress Develop](https://make.wordpress.org/core/handbook/testing/automated-testing/phpunit/) - WordPress UnitTest-envoirment.
+-   [WP Codeception](https://github.com/10up/wp-codeception) - WordPress integrates for Codeception a PHP testing framework
+-   [WP Mock](https://github.com/10up/wp_mock) - API mocking framework making it possible to properly unit test within WordPress.
+-   [Brain Monkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - Official sample data
 -   [WP Test](http://wptest.io/) - Additional test/sample data
--   [Brain Monkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
--   [WP Codeception](https://github.com/10up/wp-codeception) - WordPress integrates for Codeception a PHP testing framework
+
 
 `Command line fu`
 
