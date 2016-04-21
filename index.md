@@ -42,18 +42,13 @@ Base Tools
 -   [SVN](http://develop.svn.wordpress.org/trunk/) (Subversion)
 -   [Git](git://develop.git.wordpress.org/) (Git)
 
-`Quality Control`
-
-##### Profiling
-
--   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
--   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
--   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - Guide to automated testing
-
-`Quality Assurance`
+`Quality Control & Quality Assurance`
 
 ##### Testing
--   [WordPress Develop](https://make.wordpress.org/core/handbook/testing/automated-testing/phpunit/) - WordPress UnitTest-envoirment.
+
+-   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/) - WordPress tests repository (SVN)
+-   [WordPress DEV GIT](https://github.com/inpsyde/wordpress-dev) - A fork of the official WordPress developer repository with composer support added.
+-   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - Official guide to automated testing
 -   [WP Codeception](https://github.com/10up/wp-codeception) - WordPress integrates for Codeception a PHP testing framework
 -   [WP Mock](https://github.com/10up/wp_mock) - API mocking framework making it possible to properly unit test within WordPress.
 -   [Brain Monkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
