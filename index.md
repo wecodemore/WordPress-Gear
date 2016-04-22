@@ -202,7 +202,8 @@ Query Monitor also transparently supports all [Debug Bar](http://wpgear.org/#deb
 -   [WP Crontrol](http://wordpress.org/plugins/wp-crontrol/) - Lets you view and control what's happening in the WP-Cron system
 -   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - WordPress wrapper for Kint debugging tool. Integrates with the Debug Bar is present.
 -   [WP PHP Console](https://github.com/nekojira/wp-php-console) - Debug WordPress from Chrome Dev Tools console and run your PHP code live from a browser terminal.
--   [Option Inspector](https://wordpress.org/plugins/options-inspector/) - Inspect and edit options, even serialized ones. 
+-   [Option Inspector](https://wordpress.org/plugins/options-inspector/) - Inspect and edit options, even serialized ones.
+-   [Plugin File Check - WPSeek.com](https://wpseek.com/pluginfilecheck/) - Checks for deprecated functions, and determines the minimum requirement WP Core version for a WordPress plugin
 
 ##### Profiling plugins
 
@@ -310,6 +311,7 @@ Meta Fields
 -   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - Tools for managing custom fields
 -   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- Simple Fields
 -   [Page Type API](http://wp-papi.github.io/) - Papi has a different approach on how to work with fields and page types in WordPress.
+-   [CarbonFields](http://carbonfields.net/) - Elegant WordPress custom fields for developers
 
  
 * * * * *
