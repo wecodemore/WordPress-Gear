@@ -21,4 +21,4 @@ git checkout -b gh-pages remotes/origin/gh-pages
 git push
 ```
 
-The license is: http://creativecommons.org/licenses/by/3.0/
+The license is: https://creativecommons.org/licenses/by/3.0/
