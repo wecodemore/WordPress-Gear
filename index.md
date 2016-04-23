@@ -31,7 +31,7 @@ Base Tools
 
 ##### Revision control (stable) - These builds roll the latest commits.
 
--   [SVN](https://core.svn.wordpress.org/): `svn checkout https://core.svn.wordpress.org/trunk/`
+-   [SVN](https://core.svn.wordpress.org/trunk/): `svn checkout https://core.svn.wordpress.org/trunk/`
 -   Git: `git clone git://core.git.wordpress.org/`
 -   [GitHub](https://github.com/WordPress/WordPress): `git clone https://github.com/WordPress/WordPress.git`
 
