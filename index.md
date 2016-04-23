@@ -31,14 +31,14 @@ Base Tools
 
 ##### Revision control (core) - These builds roll the latest commits.
 
--   [SVN](https://core.svn.wordpress.org/) (Subversion)
--   [Git](git://core.git.wordpress.org/) (Git)
--   [GitHub](https://github.com/WordPress/WordPress) (Git)
+-   [SVN](https://core.svn.wordpress.org/): `svn checkout https://core.svn.wordpress.org/trunk/`
+-   Git: `git clone git://core.git.wordpress.org/`
+-   [GitHub](https://github.com/WordPress/WordPress): `git clone https://github.com/WordPress/WordPress.git`
 
-##### Revision control (trunk) - These repos contain source code, tools, and tests.
+##### Revision control (develop) - These repositories contain source code, tools, and tests.
 
--   [SVN](https://develop.svn.wordpress.org/trunk/) (Subversion)
--   [Git](git://develop.git.wordpress.org/) (Git)
+-   [SVN](https://develop.svn.wordpress.org/trunk/): `svn checkout https://develop.svn.wordpress.org/trunk/`
+-   Git: `git clone git://develop.git.wordpress.org/`
 
 
 `Unit tests`
