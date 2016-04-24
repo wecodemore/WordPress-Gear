@@ -29,16 +29,17 @@ Base Tools
 -   [Latest Stable](https://wordpress.org/download/) - wordpress.org
 -   [Nightly](https://wordpress.org/download/nightly/) - wordpress.org
 
-##### Revision control (core) - These builds roll the latest commits.
+##### Revision control (stable) - These builds roll the latest commits.
 
--   [SVN](https://core.svn.wordpress.org/) (Subversion)
--   [Git](git://core.git.wordpress.org/) (Git)
--   [GitHub](https://github.com/WordPress/WordPress) (Git)
+-   [SVN](https://core.svn.wordpress.org/trunk/): `svn checkout https://core.svn.wordpress.org/trunk/`
+-   Git: `git clone git://core.git.wordpress.org/`
+-   [GitHub](https://github.com/WordPress/WordPress): `git clone https://github.com/WordPress/WordPress.git`
 
-##### Revision control (trunk) - These repos contain source code, tools, and tests.
+##### Revision control (develop) - These repositories contain source code, tools, and tests.
 
--   [SVN](https://develop.svn.wordpress.org/trunk/) (Subversion)
--   [Git](git://develop.git.wordpress.org/) (Git)
+-   [SVN](https://develop.svn.wordpress.org/trunk/): `svn checkout https://develop.svn.wordpress.org/trunk/`
+-   Git: `git clone git://develop.git.wordpress.org/`
+-   [GitHub](https://github.com/aaronjorbin/develop.wordpress): `git clone https://github.com/aaronjorbin/develop.wordpress.git`
 
 
 `Unit tests`
