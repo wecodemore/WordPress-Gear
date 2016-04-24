@@ -39,6 +39,7 @@ Base Tools
 
 -   [SVN](https://develop.svn.wordpress.org/trunk/): `svn checkout https://develop.svn.wordpress.org/trunk/`
 -   Git: `git clone git://develop.git.wordpress.org/`
+-   [GitHub](https://github.com/aaronjorbin/develop.wordpress): `git clone https://github.com/aaronjorbin/develop.wordpress.git`
 
 
 `Unit tests`
