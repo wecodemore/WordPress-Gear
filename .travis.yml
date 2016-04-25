@@ -1,0 +1,14 @@
+deploy:
+    provider: script
+    script: scripts/deploy.sh
+    on:
+        branch: gh-pages
+
+notifications:
+    slack:
+        rooms:
+            secure: I2nf6UImQObXiFi/nMewag3mD6rMOLCMaqwxL/k57nzoaeQ64JzUtHozqGvp8qTrvCtoWqDa+eWshNFL5HOqQxvxlX8qoua2SPtaDZ7uR4Qmi0bb0rdenLaHFzu+7Ty/qyzYzSTJKnAP8hmELS3dyLh8CUWR2wsJvxpM8SYbZDY=
+        on_success: always
+        on_failure: always
+        on_start: never
+        on_pull_requests: false
