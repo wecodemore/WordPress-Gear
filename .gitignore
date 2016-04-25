@@ -1,2 +1,6 @@
+# IDEs
+## PhpStorm
+/.idea
+
 # Jekyll build
 _site
