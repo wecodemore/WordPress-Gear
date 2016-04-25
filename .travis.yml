@@ -4,6 +4,9 @@ deploy:
     on:
         branch: gh-pages
 
+before_install:
+    - openssl aes-256-cbc -K $encrypted_4be638fe4863_key -iv $encrypted_4be638fe4863_iv -in deploy_key.enc -out deploy_key -d
+
 notifications:
     slack:
         rooms:

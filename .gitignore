@@ -4,3 +4,6 @@
 
 # Jekyll build
 _site
+
+# Travis CI - build automation
+deploy_key
