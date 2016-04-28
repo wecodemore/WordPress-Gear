@@ -157,6 +157,7 @@ Plugins that help with debugging
 -   [Debug Bar Sidebars & Widgets](https://wordpress.org/plugins/debug-bar-sidebars-widgets/) - Shows information about the sidebars and widgets on the current page. Integrates with [Content Aware Sidebars](https://wordpress.org/plugins/content-aware-sidebars/) plugin.
 -   [Debug Bar Slow Actions](https://wordpress.org/plugins/debug-bar-slow-actions/) - Lists the top 100 slowest actions and filters during a page request in WordPress.
 -   [Debug Bar Super Globals](https://wordpress.org/plugins/debug-bar-super-globals/) - Displays Super Global variables for the current request.
+-   [Debug Bar Taxonomies](https://wordpress.org/plugins/debug-bar-taxonomies/) - Displays detailed information about registered taxonomies.
 -   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - Show which template files are loaded for a page.
 -   [Debug Bar Transients](https://wordpress.org/plugins/debug-bar-transients/) - Transient info.
 -   [Debug My Plugin with Debug Bar](https://wordpress.org/plugins/debug-my-plugin/) - A simple way to add your own personal debugging output to Debug Bar.
