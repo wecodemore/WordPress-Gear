@@ -14,9 +14,6 @@ The easiest way to contribute is to have a GitHub account then click [index.md](
 Please refrain from submitting any commercial products or themes. Links
 must allow for code browsing (github/bitbucket/svn..etc).
 
-I will now be posting updates to this page via my twitter account: [https://twitter.com/wycks_s](https://twitter.com/wycks_s)
-
-
 * * * * *
 
 Base Tools
