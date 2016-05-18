@@ -81,6 +81,7 @@ Base Tools
 -   [Bedrock](https://github.com/roots/bedrock) - Gets you started with the best development tools,practices, and project structure
 -   [WPacked](https://github.com/enricodeleo/wpacked) - A development starter kit with portability and immediate deployment in mind
 -   [wp-scratch-box](https://github.com/apleasantview/wp-scratch-box) - A Vagrant config for WP trainings, workshops, staging environments, ...
+-   [Dockerpresso](https://github.com/michaloo/dockerpresso) - Docker Compose configuration generator for fast WordPress theme or plugin development.
 
 
 `IDE bundles`
