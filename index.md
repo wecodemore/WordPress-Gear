@@ -119,6 +119,7 @@ Base Tools
 -   [WP.NET](http://wpdotnet.com/) - WordPress compiled to .NET, yes this exists.
 -   [WordPress Packagist](https://wpackagist.org/) - Mirror of the wp.org theme and plugin repositories for use with Composer.
 -   [Database Search & Replace script](https://github.com/interconnectit/Search-Replace-DB) - Easily search & replace data in a WP database. Fully supports handling of serialized strings. Especially useful when migrating a site to another domain/from test to production. [Full docs](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/).
+-   [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) - Migrates your database by running find & replace on URLs and file paths, handling serialized data, and saving an SQL file.
 
 * * * * *
 
