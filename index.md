@@ -306,6 +306,7 @@ Meta Fields
 
 -   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - Class for creating custom meta boxes
 -   [Meta Box Plugin](https://github.com/rilwis/meta-box) - Easily create custom meta boxes
+-   [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields on frontend for WooCommerce and save custom fields from front-end to order detail
 -   [Custom Metaboxes 2 *aka* CMB2](https://github.com/WebDevStudios/CMB2) - WebDevStudios
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy) - Thin meta framework
 -   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
