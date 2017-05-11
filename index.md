@@ -85,6 +85,7 @@ Base Tools
 -   [Dockerpresso](https://github.com/michaloo/dockerpresso) - Docker Compose configuration generator for fast WordPress theme or plugin development.
 -   [Trellis](https://github.com/roots/trellis) - Trellis uses Vagrant to automatically create a self-contained virtual machine.
 -   [Wocker](https://wckr.github.io/) - Wocker is a local WordPress development environment. Since it’s based on Docker, it takes just 3 seconds to create every new installation of WordPress.
+-   [wp-docker](https://github.com/10up/wp-docker) A simple Docker based development environment for WordPress.
 
 
 
