@@ -94,6 +94,7 @@ Base Tools
 ##### WordPress snippets and auto-completions
 
 -   [Sublime Text 2](https://github.com/purplefish32/sublime-text-2-wordpress)
+-   [Sublime Text 3](https://github.com/Dartui/sublime-wordpress-snippets)
 -   [TextMate](https://github.com/Gipetto/wordpress.tmbundle)
 -   [Aptana Studio](https://github.com/aptana/wordpress.ruble)
 -   [Coda 2](https://github.com/deryckoe/WordPress-Syntax-Mode-for-Coda-2)
