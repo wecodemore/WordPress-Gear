@@ -107,6 +107,7 @@ Base Tools
 -	[PHPStorm integration](https://github.com/xwp/wp-phpstorm)
 -	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
 -	[Brackets](https://github.com/Tusko/brackets-wp-hint/)
+-	[Atom](https://atom.io/)
 
 
 `Code sniffers & fixing`
