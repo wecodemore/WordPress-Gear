@@ -107,8 +107,8 @@ Base Tools
 -	[PHPStorm integration](https://github.com/xwp/wp-phpstorm)
 -	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
 -	[Brackets](https://github.com/Tusko/brackets-wp-hint/)
-    -	[Atom WordPress Core API Support](https://atom.io/packages/wordpress-api)
-    -	[Atom Autocomplete WordPress Hooks](https://atom.io/packages/autocomplete-wordpress-hooks)
+-	[Atom WordPress Core API Support](https://atom.io/packages/wordpress-api)
+-	[Atom Autocomplete WordPress Hooks](https://atom.io/packages/autocomplete-wordpress-hooks)
 
 
 `Code sniffers & fixing`
