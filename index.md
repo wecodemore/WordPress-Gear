@@ -108,6 +108,9 @@ Base Tools
 -	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
 -	[Brackets](https://github.com/Tusko/brackets-wp-hint/)
 -	[Atom](https://atom.io/)
+- [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet) - an extension for Visual Studio Code
+- [Wordpress VS Code Extension Pack](https://marketplace.visualstudio.com/items?itemName=jpagano.wordpress-vscode-extensionpack) - an extension for Visual Studio Code
+
 
 
 `Code sniffers & fixing`
