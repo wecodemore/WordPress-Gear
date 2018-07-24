@@ -115,7 +115,7 @@ Base Tools
 -   [WordPress Coding Standards Handbook](https://make.wordpress.org/core/handbook/best-practices/coding-standards/) - The official CSS, HTML, JS and PHP coding standards for WordPress.
 -   [WordPress-Coding-Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) - PHP CodeSniffer - enforce WordPress coding conventions.
 -   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards.
--   [PHPCompatibility](https://github.com/wimg/PHPCompatibility) - PHP CodeSniffer to test your code for PHP cross-version compatibility so you can catch those non-PHP 5.2 compatible syntaxes early.
+-   [PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - A WP-ified version of the [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) PHP CodeSniffer ruleset to test your code for PHP cross-version compatibility so you can catch those non-PHP 5.2 compatible syntaxes early.
 -   [JSHint Config](https://develop.svn.wordpress.org/trunk/.jshintrc) - The official JS hint configuration.
 
 
