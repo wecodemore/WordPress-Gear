@@ -89,6 +89,15 @@ Base Tools
 
 
 
+##### Add-ons for Varying Vagrant Vagrants
+-   [VVV Site Creation Wizard](https://github.com/bradp/vv) - Easily create new site setups for VVV.
+-   [WP Reference](https://github.com/keesiemeijer/wp-reference) - VVV [auto-site setup](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Auto-site-Setup) to obtain a local version of the developer code reference.
+-   [Theme Review](https://github.com/aubreypwd/wordpress-themereview-vvv) - VVV [auto-site setup](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Auto-site-Setup) for reviewing and testing themes for WordPress.org themes.
+-   [Plugin Development & Debugging](https://github.com/jrfnl/wordpress-plugins-tutorial) - VVV [auto-site setup](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Auto-site-Setup) for developing, testing and debugging plugins.
+-   [VVV Dashboard](https://github.com/topdown/VVV-Dashboard) - advanced dashboard with ability to turn WP_DEBUG on/off per site, create database backups, purge cache and more.
+-   [VVV Dashboard](https://github.com/leogopal/VVV-Dashboard) - simple dashboard with links to all sites, their admin and profiler.
+-   [VVV Dashboard](https://github.com/stevenkword/vvv-dashboard-custom) - simple dashboard with wapuu icons.
+
 
 `IDE bundles`
 
