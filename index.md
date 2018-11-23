@@ -264,6 +264,7 @@ PHP Boilerplate
 -   [Vafpress](http://vafpress.com/vafpress-framework/) - Admin toolbox framework
 -   [Piklist](https://piklist.com/) - Powerful framework with lots of options
 -   [Wordpress Cuztom Helper](https://github.com/gizburdt/cuztom) - Quickly register Custom Post Types, Taxonomies, Meta Boxes, Menu Pages and Sidebars
+-   [WPOnion](http://github.com/wponion/wponion/) -  ~ Lightweight & Flexible WP Options & Rapid Development Framework ~ 
 -   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Boilerplate) - OOP framework for quickly building WordPress plugins 
 -   [WPDK - Wordpress Developer Kit](https://wpxtreme.github.io/wpdk/) - OOP MVC Framework with over 150 new classes and more then 3500 methods to build your plugins
 -   [WordPress Plugin Template](https://github.com/hlashbrooke/WordPress-Plugin-Template) - A robust code template for creating a standards-compliant WordPress plugin.
