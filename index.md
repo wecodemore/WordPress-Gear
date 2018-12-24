@@ -236,6 +236,7 @@ Query Monitor also transparently supports all [Debug Bar](http://wpgear.org/#deb
 -   [Fakerpress](https://wordpress.org/plugins/fakerpress/) - Generate tons of complex dummy content
 
 
+
 * * * * *
 
 PHP Boilerplate
@@ -298,7 +299,7 @@ PHP Boilerplate
 -   [WP Requirements](https://github.com/unfulvio/wp-requirements) - A little utility class template to adapt in your plugin project to help you check for WP version, PHP version and PHP extensions before letting users activate a plugin that has minimum requirements.
 -   [Auto login](https://github.com/szepeviktor/auto-login) - An MU plugin to log in without username and password. A username should be `define()`-d in wp-config.
 -   [SMTP URI](https://github.com/szepeviktor/smtp-uri) Quickly set up SMTP. "smtp://localhost:2525"
-
+-   [WP API Libraries](https://wp-api-libraries.com) - A collection of WordPress specific API Libraries.
 
 * * * * *
 
