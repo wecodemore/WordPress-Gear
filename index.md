@@ -128,6 +128,7 @@ Base Tools
 -   [WordPress Packagist](https://wpackagist.org/) - Mirror of the wp.org theme and plugin repositories for use with Composer.
 -   [Database Search & Replace script](https://github.com/interconnectit/Search-Replace-DB) - Easily search & replace data in a WP database. Fully supports handling of serialized strings. Especially useful when migrating a site to another domain/from test to production. [Full docs](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/).
 -   [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) - Migrates your database by running find & replace on URLs and file paths, handling serialized data, and saving an SQL file.
+-   [wpuniverse.online](https://wpuniverse.online/) - A custom search engine for Wordpress and web developers. Search your query in a highly targeted and high-quality list of sites that are related to WordPress development (web development in general, but mainly WordPress).
 
 * * * * *
 
